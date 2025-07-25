@@ -1,0 +1,14 @@
+### Research Request
+
+See research/career/aws-certification-fullstack-devops for reference, research whether a Full Stack/DevOps Engineer is a valid title for my goal. I want to be a one-man full stack engineer that can code and design a cloud system and write pipelines. Even though I don't primarily do them in a start-up environment I want to apply soon, at least I have the broad knowledge, the high level knowledge.
+
+### Research Guidelines & Requirements
+
+- Research job market demand for "Full Stack/DevOps Engineer" title
+- Analyze skill overlap between full-stack development and DevOps roles  
+- Investigate startup environment requirements and preferences
+- Compare alternative title variations and market positioning
+- Evaluate salary expectations and career progression paths
+- Create comprehensive skill matrix and development roadmap
+- Document implementation strategy for positioning and skill building
+- Provide executive summary with strategic recommendations

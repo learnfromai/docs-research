@@ -1,0 +1,193 @@
+name: 🔍 Research Documentation Request
+description: Create comprehensive research documentation on a technical topic
+title: "[Research] "
+labels: ["research", "documentation", "copilot"]
+assignees: ["vilmarcabanero"]
+body:
+  - type: textarea
+    id: research_request
+    attributes:
+      label: Research Request
+      description: |
+        Provide your complete research request, questions, or topic description here.
+        Include all context, specific questions, and requirements for the research.
+      placeholder: |
+        Example:
+        I plan to be a Full Stack Engineer in a start up company. What AWS Certifications I should take? I mean, what path? Starts with cloud practitioner to cover the gaps. Then I'm thinking what should be the Next. Associate Developer? Associate SysOps? Associate Solutions Architect? Then, I plan to take the DevOps professional.
+        
+        I want to be a Full Stack Engineer with DevOps expertise. Which path should I take? I am already working as a full stack developer, and just familiar with some DevOps practices like CI/CD pipelines, etc. Perform a comprehensive research.
+        
+        Other example topics:
+        - Frontend performance optimization with Next.js 14
+        - Microservices architecture patterns with Node.js
+        - Real-time communication with WebSockets vs Server-Sent Events
+        - Database migration strategies for PostgreSQL
+        - CI/CD pipelines with GitHub Actions and Docker
+    validations:
+      required: true
+
+  - type: textarea
+    id: research_guidelines
+    attributes:
+      label: Research Guidelines & Requirements
+      description: Comprehensive research standards and implementation details (pre-filled for reference)
+      value: |
+        ## 📋 Research Guidelines & Requirements
+        
+        ### 🎯 Expected Deliverables
+        
+        **Required Documents (Standard Structure):**
+        - **README.md** - Research hub with overview and navigation
+        - **executive-summary.md** - High-level findings and recommendations
+        - **implementation-guide.md** - Step-by-step instructions
+        - **best-practices.md** - Recommendations and patterns
+        - **comparison-analysis.md** - Technology/approach comparisons (if applicable)
+        
+        **Additional Documents (Topic-Specific):**
+        Choose as needed based on research scope:
+        - **migration-strategy.md** - Migration planning and execution
+        - **performance-analysis.md** - Performance metrics and optimization
+        - **security-considerations.md** - Security patterns and guidelines
+        - **testing-strategies.md** - Testing approaches and frameworks
+        - **deployment-guide.md** - Deployment and infrastructure setup
+        - **troubleshooting.md** - Common issues and solutions
+        - **template-examples.md** - Working examples and templates
+        
+        ### 🔧 Research Quality Standards
+        
+        **Comprehensive Coverage:**
+        - All key aspects of the topic addressed
+        - Multiple perspectives and approaches considered
+        - Pros and cons clearly outlined
+        - Real-world use cases and scenarios
+        
+        **Practical Examples:**
+        - Working code samples and configurations
+        - Step-by-step implementation guides
+        - Complete setup instructions
+        - Troubleshooting common issues
+        
+        **Citations & References:**
+        - Links to official documentation and APIs
+        - GitHub repositories and source code analysis
+        - Technical blogs and industry publications
+        - Stack Overflow and community discussions
+        - Performance benchmarks and case studies
+        - Conference talks and presentations
+        
+        **GitBook Integration:**
+        - Update SUMMARY.md to include new research section
+        - Proper markdown formatting and structure
+        - Clear inter-document linking and navigation
+        - Pagination-style navigation between related documents
+        
+        ### 📁 Directory Structure & Organization
+        
+        **Suggested Research Directory:**
+        ```
+        research/[category]/[research-topic]/
+        ```
+        
+        **Available Categories:**
+        - `frontend/` - Frontend technologies and frameworks
+        - `backend/` - Backend services and APIs  
+        - `architecture/` - System design and architectural patterns
+        - `devops/` - Infrastructure, CI/CD, and deployment
+        - `database/` - Data storage and management
+        - `security/` - Security practices and implementations
+        - `performance/` - Optimization and monitoring
+        - `tools/` - Development tools and utilities
+        - `career/` - Professional development and skills
+        
+        **File Organization Pattern:**
+        ```
+        research-topic/
+        ├── README.md                 # Main hub with TOC and overview
+        ├── executive-summary.md      # High-level summary for stakeholders
+        ├── implementation-guide.md   # Step-by-step instructions
+        ├── best-practices.md        # Recommendations and patterns
+        ├── [specific-topic].md      # Detailed research documents
+        └── prompt.txt              # Original research prompt
+        ```
+        
+        ### 📖 Documentation Standards & Patterns
+        
+        **README.md Structure Requirements:**
+        Every research topic MUST include a README.md with:
+        1. **Project Title & Overview** - Clear, descriptive title with concise summary
+        2. **Table of Contents** - Organized links to all related files with descriptions
+        3. **Research Scope/Methodology** - What was researched and how
+        4. **Quick Reference** - Summary tables, technology stacks, key recommendations
+        5. **Goals Achieved** - Checkmarked list of completed research objectives
+        
+        **Documentation Quality:**
+        - Use TypeScript for code examples where applicable
+        - Follow clean architecture principles in recommendations
+        - Include comprehensive testing strategies
+        - Document all APIs and complex configurations
+        - Provide working examples and templates
+        - Add troubleshooting sections for common issues
+        
+        **Cross-References:**
+        - Link to related research topics in the workspace
+        - Reference existing patterns from `.github/copilot-instructions.md`
+        - Build upon previous research where applicable
+        - Create navigation between related documents
+        
+        ### 🎯 Research Completion Criteria
+        
+        **File Verification:**
+        1. All files referenced in README.md actually exist in the directory
+        2. No broken links in documentation
+        3. Proper markdown formatting throughout
+        4. Images and assets properly linked and accessible
+        
+        **Content Quality:**
+        5. Research addresses all aspects of the original request
+        6. Practical examples and code samples included
+        7. Citations and references provided for all sources
+        8. Clear recommendations and next steps outlined
+        
+        **Integration:**
+        9. SUMMARY.md updated with new research section
+        10. Cross-references to related research topics included
+        11. GitBook compatibility verified
+        12. Navigation links tested and working
+        
+        **Commit Standards:**
+        13. Commit message follows format: `[research] topic-name`
+        14. All files committed and properly versioned
+        15. Research quality meets established standards
+        
+        ### 🤖 For GitHub Copilot Implementation
+        
+        **Research Process:**
+        1. **Research thoroughly** using internet sources and local documentation references
+        2. **Analyze existing patterns** in the workspace for consistency
+        3. **Create complete file structure** with all documents listed in README.md
+        4. **Follow quality standards** defined in `.github/copilot-instructions.md`
+        5. **Include comprehensive citations** for all sources and recommendations
+        6. **Provide working examples** and practical implementation guidance
+        7. **Test all links** and ensure GitBook compatibility
+        8. **Update SUMMARY.md** to include the new research section
+        
+        **Information Sources Priority:**
+        - Local documentation at `~/Documents/vilmarcabanero/code/personal/copilot/docs-context/`
+        - Official documentation and APIs
+        - GitHub repositories and source code
+        - Technical blogs and industry publications
+        - Community discussions and Stack Overflow
+        - Performance benchmarks and case studies
+        - Conference talks and presentations
+        
+        **Expected Output Format:**
+        - **Commit Message:** `[research] [topic-name-here]`
+        - **Chat/Conversation Name:** `[research] [topic-name-here]`
+        - **Directory:** `research/[category]/[research-topic]/`
+        - **Files:** Complete set as outlined in deliverables section above
+        
+        ---
+        Research request template version 1.1 - July 21, 2025
+      render: markdown
+    validations:
+      required: false

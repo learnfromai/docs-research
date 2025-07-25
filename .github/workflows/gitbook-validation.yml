@@ -1,0 +1,77 @@
+name: GitBook Validation
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  validate-gitbook:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Validate GitBook configuration
+      run: |
+        echo "🔍 Validating GitBook configuration..."
+        
+        # Check if .gitbook.yaml exists
+        if [ ! -f ".gitbook.yaml" ]; then
+          echo "❌ .gitbook.yaml not found"
+          exit 1
+        fi
+        echo "✅ .gitbook.yaml found"
+        
+        # Check if README.md exists
+        if [ ! -f "README.md" ]; then
+          echo "❌ README.md not found"
+          exit 1
+        fi
+        echo "✅ README.md found"
+        
+        # Check if SUMMARY.md exists
+        if [ ! -f "SUMMARY.md" ]; then
+          echo "❌ SUMMARY.md not found"
+          exit 1
+        fi
+        echo "✅ SUMMARY.md found"
+        
+        # Validate SUMMARY.md syntax
+        echo "🔍 Validating SUMMARY.md structure..."
+        if grep -q "# Table of Contents" SUMMARY.md; then
+          echo "✅ SUMMARY.md has correct header"
+        else
+          echo "❌ SUMMARY.md missing correct header"
+          exit 1
+        fi
+        
+        echo "✅ All GitBook validation checks passed!"
+        
+    - name: Check markdown files
+      run: |
+        echo "🔍 Checking markdown files..."
+        
+        # Find all markdown files and check for basic issues
+        find . -name "*.md" -not -path "./target/*" -not -path "./.git/*" | while read file; do
+          echo "Checking: $file"
+          
+          # Check if file is not empty
+          if [ ! -s "$file" ]; then
+            echo "⚠️  Warning: $file is empty"
+          fi
+        done
+        
+        echo "✅ Markdown file check completed"
+        
+    - name: Validate GitBook YAML syntax
+      uses: mikefarah/yq@master
+      with:
+        cmd: yq eval '.root' .gitbook.yaml
+        
+    - name: Display repository structure
+      run: |
+        echo "📁 Repository structure for GitBook:"
+        tree -I 'target|.git|node_modules' -L 3 || find . -type d -not -path './target*' -not -path './.git*' -not -path './node_modules*' | head -20

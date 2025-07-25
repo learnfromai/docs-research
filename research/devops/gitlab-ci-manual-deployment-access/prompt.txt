@@ -1,0 +1,20 @@
+Research about how I can have access to our manual task prod deployment with gitlab CI. At first, I thought having a maintainer role can do it. Same with merge access. But I found out that our merge rules is not based on roles, but we specifically include names/usernames/people not role-based. Research about the manual task deployment access.
+
+Focus on:
+- Understanding roles vs user-specific permissions for manual tasks
+- How manual deployment permissions differ from merge permissions  
+- What are the exact GitLab roles and capabilities for manual tasks?
+- How to configure user-specific vs role-based manual deployment access?
+- Best practices for secure production deployment workflows
+- Common troubleshooting scenarios for deployment access issues
+
+Create comprehensive documentation following established patterns with:
+- Executive summary
+- Implementation guide
+- Best practices
+- Permission models analysis
+- Pipeline configuration examples
+- Security considerations
+- Troubleshooting guide
+
+Include citations and practical examples throughout.

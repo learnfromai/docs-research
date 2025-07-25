@@ -1,0 +1,15 @@
+Research Request:
+
+Research whether it is absolutely okay to use the path CFA - SAA - DOP if I plan to work as full stack engineer in a start-up that can code and write pipelines, design/architect the cloud architecture of app to be deployed, or improve/optimize the current existing app that is in early stage.
+
+Context: This research is specifically focused on validating the AWS certification path:
+- CFA (AWS Certified Cloud Practitioner - Foundational)
+- SAA (AWS Certified Solutions Architect - Associate)  
+- DOP (AWS Certified DevOps Engineer - Professional)
+
+Target Role: Full-stack engineer in startup environment with responsibilities for:
+- Full-stack development (coding)
+- CI/CD pipeline development and management
+- Cloud architecture design for application deployment
+- Optimization of early-stage applications
+- DevOps practices and infrastructure management

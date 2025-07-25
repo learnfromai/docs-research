@@ -1,0 +1,18 @@
+# GitBook Files
+.gitbook/
+
+# Target directories with context/reference materials
+target/
+./target/.docs-context
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak

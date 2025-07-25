@@ -1,0 +1,3 @@
+Research about monorepo and how can I utilize them for my personal projects. For example, if I create an Expense Tracker MVP that have several microservices, like one main React PWA, express.js main backend, some Lambda microservice, some e2e codebase with playwright (not sure if it is better or practical to move the e2e tests outside the React PWA), React Native mobile app (Same project Expense Tracker), some microservice, etc. 
+
+I plan to use monorepo not only to utilize the reusability of some code, but also so that the coding agent tool have the visibility of the whole project, the whole app, the whole features. Basically, one whole app with complete features, with documentation.

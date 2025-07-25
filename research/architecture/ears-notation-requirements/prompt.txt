@@ -1,0 +1,42 @@
+[Research] Research how to properly create EARS notation requirements with acceptance criteria may and user stories. Structured and complete yet concise reference.
+
+Research Guidelines & Requirements:
+
+Expected Deliverables:
+- README.md - Research hub with overview and navigation
+- executive-summary.md - High-level findings and recommendations
+- implementation-guide.md - Step-by-step instructions
+- best-practices.md - Recommendations and patterns
+- comparison-analysis.md - Technology/approach comparisons
+- template-examples.md - Working examples and templates
+- user-stories-integration.md - Integration with agile user stories
+- tools-automation.md - Software tools and automation techniques
+- quality-assurance.md - Validation techniques and quality metrics
+
+Research Quality Standards:
+- Comprehensive coverage of EARS notation fundamentals
+- Practical examples and working templates
+- Integration with agile development methodologies
+- Citations and references to official sources
+- Complete setup instructions and troubleshooting
+- GitBook integration and proper navigation
+
+Directory Structure:
+research/architecture/ears-notation-requirements/
+
+Focus Areas:
+- The 6 fundamental EARS templates (ubiquitous, event-driven, unwanted behavior, state-driven, optional, complex)
+- Integration with user stories and acceptance criteria
+- BDD (Behavior-Driven Development) alignment
+- Quality assurance and validation techniques
+- Tools and automation for EARS implementation
+- Comparison with other requirements engineering approaches
+- Real-world examples across multiple industries
+- Best practices for team adoption and training
+
+Expected Output:
+- Complete research documentation following established patterns
+- Practical templates and examples ready for immediate use
+- Integration guidelines for existing development workflows
+- Quality metrics and assessment frameworks
+- Tool recommendations and automation strategies

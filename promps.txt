@@ -1,0 +1,1 @@
+Copy the content of express-testing-frameworks-comparison to a dedicated section under research. Then update the necessary files like SUMMARY.md for proper linking. You don't have to update the content of each md files to exactly match the syntax of gitbook like adding {% ... etc. Just proper linking so I can view the content on the github well. Thanks!

@@ -1,0 +1,23 @@
+## Original Research Request
+
+**Topic/Technology to Research:**
+AWS Certification for a Full Stack Engineer
+
+**Context:**
+I plan to be a Full Stack Engineer in a start up company. What AWS Certifications I should take? I mean, what path? Starts with cloud practitioner to cover the gaps. Then I'm thinking what should be the Next. Associate Developer? Associate SysOps? Associate Solutions Architect? Then, I plan to take the DevOps professional.
+
+I want to be a Full Stack Engineer with DevOps expertise. Which path should I take? I am already working as a full stack developer, and just familiar with some DevOps practices like CI/CD pipelines, etc. Perform a comprehensive research.
+
+**Research Goals:**
+- Determine optimal AWS certification path for Full Stack Engineer with DevOps expertise
+- Compare Associate level certifications (Developer, SysOps, Solutions Architect)
+- Create implementation roadmap from Cloud Practitioner to Professional DevOps
+- Provide practical study plans and hands-on experience recommendations
+- Analyze career alignment and ROI for startup environments
+
+**Current Experience:**
+- Working as Full Stack Developer
+- Familiar with basic DevOps practices (CI/CD pipelines)
+- Planning to specialize in DevOps alongside full-stack development
+
+**Research Date:** July 2025

@@ -1,0 +1,11 @@
+Research Request
+
+Research how to start an open source project designed as portfolio. So it is intentional, I may already know what features I will include, what architecture I will follow to organize the directory structure of the codebase (Clean Architecture, MVVM, SOLID Principles, DDD), plan to write at least one commit per day (not necessarily one PR/Solve one issue per day, just one commit), etc.
+
+This is intentional and will be shown to recruiters or technical interviewers and included in resume when I apply for new work. I'm currently working as a full stack developer, but my open source project will follow best practices and not the same as what I learn or do in work, just based on my research of modern technology and best practices. 
+
+For the features, I plan to use Expense Tracker app named Gasto (from the the filipino word "gastos" - expense, and from the spanish word gastar - to spend, or gasto - expense/I spend)
+
+tech is Nx, with React SPA with Vite/Typescript, express backend with option to use AWS Lambda, React Native for mobile, etc. 
+
+The main topic of research is how to design or how to do, what to do with the goal of to impress the employer or technical interviewer with my technical skills.

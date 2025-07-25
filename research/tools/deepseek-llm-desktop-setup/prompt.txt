@@ -1,0 +1,1 @@
+Research for the best desktop setup for locally hosting DeepSeek LLM for personal use, I prefer Ryzen setup and plan to install linux as OS. Research for the specs like CPU, RAM, GPU, etc. Plan is to use LLM for agentic coding agent similar to Claude Code, cline.bot, etc.
