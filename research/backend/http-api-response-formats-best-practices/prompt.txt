@@ -1,0 +1,16 @@
+Research Request: HTTP API Success and Error Response Format Best Practices
+
+Current Implementation Analysis:
+- Zod validation errors with detailed structure including issues array and fieldErrors object
+- Domain exceptions with custom error codes (AUTH_INVALID_CREDENTIALS, REG_EMAIL_EXISTS)  
+- Success responses with different patterns (data arrays, objects, message-only responses)
+- Consistent boolean "success" field across all response types
+
+Research Focus:
+1. Analyze current implementation patterns and structure
+2. Compare against industry standards (RFC 7807, JSON:API, Google API Design Guide)
+3. Identify best practices for HTTP API response formats
+4. Provide migration strategy and implementation examples
+5. Focus on both success and error response standardization
+
+Goal: Comprehensive research on HTTP API response format best practices with specific focus on current implementation improvement recommendations.
