@@ -1,0 +1,13 @@
+Research Request: How to convert client requirements to user stories with ACs and to EARS requirements
+
+Client requirements might be like this:
+- I want to have a login feature where user can log in with email/username and password.
+- I want to have a register feature where user can create new account with first name, last name, email and password, and the username is by default the username of the email so it won't be included in the register form.
+
+That is the general feature.
+
+Then we need to convert these to proper user stories with ACs to be included in the card/task, then finally to convert to specific EARS requirements ready for development.
+
+System requirements might be different when creating the api first, or when creating just the UI for FE, or when integrating them. So what I want is to convert those 2 requirements I gave you to correct user stories/ACs/EARS ignoring the other features just the two I gave you for simplicity.
+
+Research Focus: Converting vague client requirements into structured user stories with acceptance criteria and precise EARS requirements for development implementation.
