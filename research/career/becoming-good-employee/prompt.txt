@@ -1,0 +1,15 @@
+### Research Request
+
+[Research] Research how to become a good employee. I'm a full stack software engineer. What tools I need, what websites I should know about, etc. 
+
+I'm planning to learn cloud computing too with AWS, and probably take certifications like SAA, DOP, or related to security, AI, etc. Probably learn MLOps too, etc. I want to work in start ups, though I currently work in an established company mainly maintaining more than decade-old legacy code.
+
+### Research Guidelines & Requirements
+
+Research focus: Comprehensive guide on becoming an effective software engineer employee, with emphasis on:
+1. Technical skills development (AWS, cloud computing, certifications, MLOps)
+2. Tools and websites for professional development
+3. Startup transition strategies from enterprise/legacy environments
+4. Soft skills and workplace effectiveness
+5. Performance evaluation and career advancement
+6. Professional development resources and learning paths
