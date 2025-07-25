@@ -11,6 +11,7 @@ Comprehensive research and documentation focused on career development, intervie
 1. [Technical Interview Questions](#technical-interview-questions)
 2. [Professional Open Source Expense Tracker](#professional-open-source-expense-tracker)
 3. [AWS Certification for Full Stack Engineers with DevOps Expertise](#aws-certification-for-full-stack-engineers-with-devops-expertise)
+4. [How to Become a Good Employee: Software Engineer's Guide](#how-to-become-a-good-employee-software-engineers-guide)
 
 ## Research Categories
 
@@ -64,6 +65,23 @@ Comprehensive research and strategic guidance for AWS certification journey tail
 **Strategic Advantage**: Provides optimized 6-10 month certification journey with 25-40% potential salary increase and expanded career opportunities in startup environments.
 {% endhint %}
 
+### How to Become a Good Employee: Software Engineer's Guide
+
+Comprehensive research and implementation guide for software engineers looking to excel professionally, transition from legacy enterprise environments to startup cultures, and develop both technical and professional skills essential for career advancement.
+
+**Coverage includes:**
+
+- Technical skills development roadmap (AWS, cloud computing, certifications, MLOps)
+- Startup transition strategies from enterprise/legacy environments  
+- Professional development resources and essential tools/websites
+- Soft skills and workplace behavior excellence
+- Performance evaluation strategies and career advancement
+- Implementation guide with 12-month structured development plan
+
+{% hint style="info" %}
+**Career Transformation**: Complete guide for transitioning from legacy enterprise maintenance roles to modern startup environments, with focus on cloud computing mastery and professional effectiveness.
+{% endhint %}
+
 ### Key Resources
 
 | Resource | Focus Area | Completion Status |
@@ -71,13 +89,14 @@ Comprehensive research and strategic guidance for AWS certification journey tail
 | [Technical Interview Questions](technical-interview-questions/README.md) | Full-Stack Development | ✅ Complete |
 | [Professional Expense Tracker](professional-expense-tracker-open-source/README.md) | Portfolio Development | ✅ Complete |
 | [AWS Certification Strategy](aws-certification-fullstack-devops/README.md) | Cloud & DevOps Expertise | ✅ Complete |
+| [How to Become a Good Employee](becoming-good-employee/README.md) | Professional Development | ✅ Complete |
 | Career Planning Resources | Strategic Development | 🔄 Planned |
-| Professional Development | Skill Enhancement | 🔄 Planned |
 
 ## Quick Access
 
 ### Most Frequently Referenced
 
+- **[How to Become a Good Employee](becoming-good-employee/README.md)** - Complete professional development and career advancement guide
 - **[AWS Certification Strategy](aws-certification-fullstack-devops/README.md)** - Complete AWS certification roadmap for Full Stack + DevOps
 - **[Professional Expense Tracker Project](professional-expense-tracker-open-source/README.md)** - Complete portfolio project guide
 - **[Full Technical Interview Guide](technical-interview-questions/README.md)** - Complete interview preparation
