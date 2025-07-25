@@ -46,7 +46,7 @@ Assumptions:
 
 ### Stage 2: User Story Creation
 
-```markdown
+
 # User Story: User Authentication
 
 **As a** registered user of the application
@@ -112,13 +112,13 @@ Assumptions:
 **Security**: All credentials must be transmitted over HTTPS with proper encryption
 **Accessibility**: Login form must be accessible via keyboard navigation and screen readers
 **Usability**: Error messages should be clear and helpful without revealing security information
-```
+
 
 ### Stage 3: EARS Requirements by System Context
 
 #### API-First Context (Backend Service)
 
-```markdown
+
 # EARS Requirements: Login API Service
 
 ## Authentication Endpoint
@@ -174,11 +174,11 @@ THE SYSTEM SHALL log all authentication attempts with IP address, user agent, an
 THE SYSTEM SHALL respond to authentication requests within 2 seconds under normal load (100 requests/second)
 THE SYSTEM SHALL support up to 1000 concurrent authentication requests without service degradation
 THE SYSTEM SHALL maintain 99.9% availability for authentication services during business hours
-```
+
 
 #### UI-Only Context (Frontend Application)
 
-```markdown
+
 # EARS Requirements: Login User Interface
 
 ## Login Form Display
@@ -245,11 +245,11 @@ THE SYSTEM SHALL adjust viewport to keep submit button visible and accessible
 THE SYSTEM SHALL render the complete login form within 1 second on standard broadband connections
 THE SYSTEM SHALL provide immediate visual feedback (<100ms) for all user interactions
 THE SYSTEM SHALL cache static assets (CSS, images) for improved loading performance
-```
+
 
 #### Integrated Context (Full-Stack Implementation)
 
-```markdown
+
 # EARS Requirements: Login Feature (Full-Stack)
 
 ## End-to-End Authentication Flow
@@ -308,7 +308,7 @@ THE SYSTEM SHALL log detailed error information in backend logs and send sanitiz
 THE SYSTEM SHALL track authentication success rates, response times, and error patterns in monitoring dashboard
 THE SYSTEM SHALL alert system administrators when authentication error rates exceed 5% or response times exceed 5 seconds
 THE SYSTEM SHALL maintain security audit logs for all authentication attempts with retention period of 90 days
-```
+
 
 ## 👤 Example 2: Registration Feature Conversion
 
@@ -351,7 +351,7 @@ Assumptions:
 
 ### Stage 2: User Story Creation
 
-```markdown
+
 # User Story: User Account Registration
 
 **As a** new visitor to the application
@@ -420,13 +420,13 @@ Assumptions:
 **Performance**: Registration process should complete within 5 seconds under normal load
 **Email Delivery**: Verification emails should be sent within 2 minutes of registration
 **Accessibility**: Registration form must support screen readers and keyboard navigation
-```
+
 
 ### Stage 3: EARS Requirements by System Context
 
 #### API-First Context (Backend Service)
 
-```markdown
+
 # EARS Requirements: Registration API Service
 
 ## User Registration Endpoint
@@ -502,11 +502,11 @@ THE SYSTEM SHALL process registration requests within 3 seconds under normal loa
 THE SYSTEM SHALL handle database connection failures gracefully and return appropriate error messages
 THE SYSTEM SHALL implement database transactions to ensure data consistency during registration
 THE SYSTEM SHALL log all registration attempts with IP address, timestamp, and outcome for monitoring
-```
+
 
 #### UI-Only Context (Frontend Application)
 
-```markdown
+
 # EARS Requirements: Registration User Interface
 
 ## Registration Form Display
@@ -588,11 +588,11 @@ THE SYSTEM SHALL ensure smooth scrolling to keep active field in view
 THE SYSTEM SHALL render complete registration form within 1.5 seconds on standard connections
 THE SYSTEM SHALL provide immediate visual feedback (<100ms) for all user interactions
 THE SYSTEM SHALL validate form fields without noticeable delay (<200ms)
-```
+
 
 #### Integrated Context (Full-Stack Implementation)
 
-```markdown
+
 # EARS Requirements: Registration Feature (Full-Stack)
 
 ## End-to-End Registration Flow
@@ -656,7 +656,7 @@ THE SYSTEM SHALL track registration completion rates, abandonment points, and er
 THE SYSTEM SHALL log all registration attempts with outcome, timing, and error details for analysis
 THE SYSTEM SHALL monitor email delivery success rates and verification completion rates
 THE SYSTEM SHALL alert administrators when registration error rates exceed 5% or processing times exceed 10 seconds
-```
+
 
 ## 📊 Conversion Quality Assessment
 
