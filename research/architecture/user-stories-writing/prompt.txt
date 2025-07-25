@@ -1,0 +1,15 @@
+Research Request: How to write user stories
+
+Research how to properly write user stories how they relate to acceptance criteria or to EARS notation system requirements like 
+WHEN a user enters valid credentials (email/username and password) and clicks the "Login" button  
+THE SYSTEM SHALL authenticate the credentials against the stored user data and redirect to the authorized user dashboard
+
+I want to use them, but I believe it starts with user stories? Not sure. But I believe user stories are the starting point, more general, where users can understand them,then system requirements in EARS notation might be the specific instruction specifically to do develop based on the requirements. Not sure. Analyze them. Also, in the end, convert these requirements to user stories/ACs/EARS:
+
+- I want to have a login feature where user can log in with email/username and password.
+- I want to have a register feature where user can create new account with first name, last name, email and password, and the username is by default the username of the email so it won't be included in the register form. 
+
+That is the general feature. But system requirements might be different when creating the api first, or when creating just the UI for FE, or when integrating them. So what I want is to convert those 2 requirements I gave you to correct user stories/ACs/EARS ignoring the other features just the two I gave you for simplicity.
+
+Research Date: January 2025
+Research Focus: User story writing fundamentals, relationship to acceptance criteria and EARS notation, practical conversion examples
