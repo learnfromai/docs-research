@@ -1,0 +1,16 @@
+### Research Request
+
+[Research] Research other skill-practice websites. I have known code wars for practicing DSA. There are others too like LeetCode. Now, I didn't know there are other that exists that are for CSS for examle the cssbattle.dev. Are there any other tools alternative to cssbattle.dev? Also, are there any other tools that can be used for skill practice? It is fine if not only limited to programming. Maybe also cloud or DevOps. Or soft skills. Do the research well.
+
+### Research Guidelines & Requirements
+
+Expected to cover:
+- Programming practice platforms beyond CodeWars and LeetCode
+- CSS practice alternatives to CSSSBattle.dev
+- Cloud and DevOps skill practice platforms  
+- Soft skills practice resources
+- Comprehensive analysis with citations and practical examples
+- Comparison of features, pricing, and effectiveness
+- Implementation guidance for effective skill development
+
+Research completed: [Date to be filled]
