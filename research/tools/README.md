@@ -6,12 +6,17 @@ This section contains research and analysis on development tools, environments, 
 
 ## 🛠️ Research Topics
 
+### Professional Development Tools
+
+* [Useful Websites and Web Apps](useful-websites-web-apps/README.md) - Comprehensive catalog of essential websites and web applications for professional development, career advancement, and productivity enhancement
+
 ### Infrastructure & Hardware
 
 * [DeepSeek LLM Desktop Setup](deepseek-llm-desktop-setup/README.md) - Comprehensive guide for locally hosting DeepSeek LLM on Ryzen-based Linux systems for agentic coding workflows
 
 ## 🎯 Research Focus Areas
 
+- **Professional Development Resources** - Websites and applications for career intelligence, skill development, and networking
 - **Development Environment Optimization** - Tools and configurations for enhanced productivity
 - **Local AI/LLM Hosting** - Hardware and software requirements for running large language models locally
 - **Linux Development Setups** - OS configurations and toolchain optimization
