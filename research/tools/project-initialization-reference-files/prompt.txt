@@ -1,0 +1,1 @@
+[Research] How or what file to write to be used as reference for first commit. For example, a file initialcommit.txt that contains 2025-07-06 01:49 UTC+8 or similar. This is for reference that will serve as guide or palatandaan that the project started at that specific date.
