@@ -1,0 +1,36 @@
+### Research Request
+
+[Research] Research for list of research topics about career, business, technical skill, etc.
+
+As you already know, this repository contains research documents for various topics.
+
+Now, perform research on what should I research. The list should contain 1-3 statements about the prompt for asking the research. 
+
+Various topics like, career progression in tech, or tools for frontend development, backend development, devops, cloud, etc.
+
+Anything that will be helpful in IT/ComSci field, career, technical skills, etc. For business part, as an IT, like research for all things needed to start an edtech business similar to Khan Academy with a platform but the topics are board exam review for Philippine board exams. Research for best practices for all, etc. I want you to give a comprehensive list, as much as possible, where research topic would be one session for the copilot agent to research. 
+
+### Research Guidelines & Requirements
+
+- Expected Documents: README.md, executive-summary.md, implementation-guide.md, best-practices.md, comparison-analysis.md (if applicable)
+- Research Quality Standards: Comprehensive coverage, practical examples, citations & references, GitBook integration
+- Documentation Standards: GitBook-compatible markdown with structured navigation
+- Research Completion Criteria: File verification, content quality, integration, commit standards
+
+### Target Areas:
+1. Career Development & Professional Growth
+2. Technical Skills & Technology Mastery
+3. Business Development & EdTech Opportunities (Philippine focus)
+4. Emerging Technologies & Future Trends
+5. Industry Specializations & Domain Expertise
+
+### Specific Focus:
+- Philippine board exam preparation platform development
+- EdTech business models and market analysis
+- IT/CS career advancement strategies
+- Modern software development practices
+- Cloud computing and DevOps expertise
+- Frontend, backend, and full-stack development
+
+### Expected Deliverable:
+Comprehensive research guide with 100+ actionable research topics organized by category, each with 1-3 specific research prompt statements suitable for single-session execution.
