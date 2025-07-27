@@ -1,0 +1,39 @@
+# Research Request: NestJS Open Source Projects Analysis
+
+## Original Prompt
+
+[Research] Perform research for open source projects that uses nest.js
+
+Goal is to have reference to study production-ready nest projects. Look as many as you can. I want to learn how nest is properly used, how to create secure and scalable code/architecture. How to create secure authentication if applicable. What tools or libaries they are using, etc.
+
+## Research Scope
+
+- Analyze production-ready NestJS open source projects
+- Study proper NestJS usage patterns and best practices
+- Examine secure and scalable code/architecture implementations
+- Analyze authentication and security patterns
+- Document tools and libraries used in production
+- Provide actionable insights for building enterprise-grade NestJS applications
+
+## Expected Deliverables
+
+1. Comprehensive analysis of 15+ production NestJS projects
+2. Authentication and security implementation patterns
+3. Architecture best practices and design patterns
+4. Technology stack recommendations
+5. Code examples and reusable templates
+6. Step-by-step implementation guide
+7. Comparison analysis of different approaches
+8. Performance and scalability recommendations
+
+## Target Audience
+
+- Developers wanting to learn production-ready NestJS patterns
+- Architects designing secure and scalable NestJS applications
+- Teams looking to adopt NestJS best practices
+- Anyone seeking real-world examples of NestJS implementations
+
+---
+
+Research completed: January 2025
+Analysis based on 15+ production NestJS applications with 100,000+ combined GitHub stars
