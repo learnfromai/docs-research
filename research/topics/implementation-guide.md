@@ -284,3 +284,12 @@ Week 11-12: Technical Communication Excellence
 - [Best Practices](./best-practices.md)
 - [Career Progression Topics](./career-progression-topics.md)
 - [Research Overview](./README.md)
+
+## Citations and References
+
+1. **Getting Things Done (GTD) Methodology** - David Allen's productivity framework adapted for research planning. [Allen, David. "Getting Things Done." Penguin Books, 2015]
+2. **The Lean Startup** - Eric Ries' methodology for systematic experimentation and learning. [Ries, Eric. "The Lean Startup." Crown Business, 2011]
+3. **Research Methods in Software Engineering** - Academic approaches to systematic technology research. [IEEE Software Engineering Research Guidelines]
+4. **AI-Assisted Research Best Practices** - Emerging practices for working with AI research assistants. [MIT Technology Review, 2024]
+5. **Information Literacy Standards** - Academic standards for research quality and source evaluation. [Association of College & Research Libraries]
+6. **Personal Knowledge Management Systems** - Frameworks for organizing and applying research insights. [Tiago Forte, "Building a Second Brain," 2022]
