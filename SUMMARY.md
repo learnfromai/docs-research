@@ -251,6 +251,19 @@
     * [Are You Smarter than a 5th Grader Game](research/team-activities/interactive-learning-games/are-you-smarter-than-5th-grader-game.md)
     * [Are You Smarter than a 5th Grader Game (Clean)](research/team-activities/interactive-learning-games/are-you-smarter-than-5th-grader-game-clean.md)
     * [Sample Question Set](research/team-activities/interactive-learning-games/sample-question-set.md)
+* [Meta Research](research/meta/README.md)
+  * [Research Topics List for IT/CS Professionals](research/meta/research-topics-list/README.md)
+    * [Executive Summary](research/meta/research-topics-list/executive-summary.md)
+    * [Career Development Topics](research/meta/research-topics-list/career-development-topics.md)
+    * [Technical Skills Topics](research/meta/research-topics-list/technical-skills-topics.md)
+    * [Business & EdTech Topics](research/meta/research-topics-list/business-edtech-topics.md)
+    * [Tools & Environment Topics](research/meta/research-topics-list/tools-environment-topics.md)
+    * [Architecture & Design Topics](research/meta/research-topics-list/architecture-design-topics.md)
+    * [Security & Performance Topics](research/meta/research-topics-list/security-performance-topics.md)
+    * [AI & Modern Technology Topics](research/meta/research-topics-list/ai-modern-tech-topics.md)
+    * [Management & Leadership Topics](research/meta/research-topics-list/management-leadership-topics.md)
+    * [Implementation Guide](research/meta/research-topics-list/implementation-guide.md)
+    * [Best Practices](research/meta/research-topics-list/best-practices.md)
 
 ## Reference Materials
 
