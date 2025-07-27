@@ -16,6 +16,8 @@ This comprehensive catalog provides a curated list of research topics specifical
 8. [Tools & Productivity Topics](./tools-productivity-topics.md) - Development tools and workflow optimization
 9. [Executive Summary](./executive-summary.md) - Key recommendations and topic prioritization
 10. [Implementation Guide](./implementation-guide.md) - How to use this catalog effectively
+11. [Comparison Analysis](./comparison-analysis.md) - Category comparison and decision frameworks
+12. [Citations & References](./citations-references.md) - Comprehensive source documentation
 
 ## Research Scope & Methodology
 

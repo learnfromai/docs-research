@@ -151,6 +151,7 @@
     * [Architecture & Design Topics](research/meta/research-topics-catalog/architecture-design-topics.md)
     * [Tools & Productivity Topics](research/meta/research-topics-catalog/tools-productivity-topics.md)
     * [Comparison Analysis](research/meta/research-topics-catalog/comparison-analysis.md)
+    * [Citations & References](research/meta/research-topics-catalog/citations-references.md)
 * [Tools & Development Environment](research/tools/README.md)
   * [Skill-Practice Websites Research](research/tools/skill-practice-websites/README.md)
     * [Executive Summary](research/tools/skill-practice-websites/executive-summary.md)
