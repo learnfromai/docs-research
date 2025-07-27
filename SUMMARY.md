@@ -363,6 +363,14 @@
   * [Emerging Technologies Topics](research/research-topics-list/emerging-technologies-topics.md)
   * [Best Practices & Methodologies](research/research-topics-list/best-practices-methodologies.md)
   * [Implementation Guide](research/research-topics-list/implementation-guide.md)
+* [Comprehensive Research Topics](research/research-topics-comprehensive-list/README.md)
+  * [Executive Summary](research/research-topics-comprehensive-list/executive-summary.md)
+  * [Career Development Topics](research/research-topics-comprehensive-list/career-development-topics.md)
+  * [Technical Skills Topics](research/research-topics-comprehensive-list/technical-skills-topics.md)
+  * [Business & EdTech Topics](research/research-topics-comprehensive-list/business-edtech-topics.md)
+  * [Cloud & Infrastructure Topics](research/research-topics-comprehensive-list/cloud-infrastructure-topics.md)
+  * [Implementation Guide](research/research-topics-comprehensive-list/implementation-guide.md)
+  * [Best Practices](research/research-topics-comprehensive-list/best-practices.md)
 
 ## Reference Materials
 
