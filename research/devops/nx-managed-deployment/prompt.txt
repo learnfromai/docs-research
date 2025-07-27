@@ -1,0 +1,9 @@
+Research Request: Deploy Nx to managed app providers
+
+What is the best practice to deploy Nx project? For example, I have a full stack Nx project, where I have 2 deployable apps, one is React frontend (vite) and other is express backend. I want the managed services because I will handover the app to a client and they won't be knowledgeable in devops. 
+
+Research for manage app deployment providers which includes digital ocean managed apps, render, railway, etc.
+
+Also consider the database part where to deploy it. We need to deploy the MySQL. 
+
+If possible, goal is the cheapest option.
