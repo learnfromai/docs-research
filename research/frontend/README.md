@@ -3,11 +3,14 @@
 Research and analysis of modern frontend development technologies, focusing on performance optimization, tooling, and best practices for building high-quality web applications.
 
 {% hint style="info" %}
-**Research Focus**: Frontend performance optimization, measurement tools, and modern development workflows
-**Current Analysis**: React/Vite performance strategies and Lighthouse/PageSpeed Insights evaluation
+**Research Focus**: Production React/Next.js patterns, state management, component architecture, and performance optimization
+**Current Analysis**: Open source project analysis, React/Vite performance strategies, and Lighthouse/PageSpeed Insights evaluation
 {% endhint %}
 
 ## Research Areas
+
+### ⚛️ React/Next.js Production Patterns
+- **[Production-Ready React/Next.js Open Source Projects](react-nextjs-open-source-projects/README.md)** - Comprehensive analysis of 25+ production React/Next.js projects covering state management, component architecture, API integration, and security patterns
 
 ### 🚀 Performance Analysis
 - **[Performance Analysis](performance-analysis/README.md)** - Comprehensive research on frontend performance optimization, measurement tools (Lighthouse, PageSpeed Insights), and React/Vite enhancement strategies
