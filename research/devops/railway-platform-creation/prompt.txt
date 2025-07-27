@@ -1,0 +1,5 @@
+[Research] Research how to create a platform like Railway.com. 
+
+I'll do this as personal project to learn both Full Stack Web development and DevOps/Cloud, Network, Security, etc. Am I correct that I will need to learn all of them? 
+
+Conduct comprehensive research.
