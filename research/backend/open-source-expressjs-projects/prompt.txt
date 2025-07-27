@@ -1,0 +1,9 @@
+### Research Request
+
+[Research] Perform research for open source projects that uses express.js
+
+Goal is to have reference to study production-ready express projects. Look as many as you can. I want to learn how express is properly used, how to create secure and scalable code/architecture. How to create secure authentication if applicable. What tools or libaries they are using, etc.
+
+### Research Guidelines & Requirements
+
+Complete research following the established documentation patterns in this repository.
