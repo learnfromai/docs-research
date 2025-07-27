@@ -1,0 +1,5 @@
+### Research Request
+
+[Research] Perform research for open source devops projects that uses terraform with AWS and/or with kubernetes and/or EKS
+
+Goal is to have reference to study production-ready devops projects. Look as many as you can. I want to learn how terraform with AWS and/or with kubernetes and/or EKS is properly used.
