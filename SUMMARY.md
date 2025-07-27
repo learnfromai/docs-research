@@ -251,6 +251,15 @@
     * [Are You Smarter than a 5th Grader Game](research/team-activities/interactive-learning-games/are-you-smarter-than-5th-grader-game.md)
     * [Are You Smarter than a 5th Grader Game (Clean)](research/team-activities/interactive-learning-games/are-you-smarter-than-5th-grader-game-clean.md)
     * [Sample Question Set](research/team-activities/interactive-learning-games/sample-question-set.md)
+* [Research Topics List](research/research-topics-list/README.md)
+  * [Executive Summary](research/research-topics-list/executive-summary.md)
+  * [Career Development Topics](research/research-topics-list/career-development-topics.md)
+  * [Technical Skills Topics](research/research-topics-list/technical-skills-topics.md)
+  * [Business & Entrepreneurship Topics](research/research-topics-list/business-entrepreneurship-topics.md)
+  * [Tools & Productivity Topics](research/research-topics-list/tools-productivity-topics.md)
+  * [Emerging Technologies Topics](research/research-topics-list/emerging-technologies-topics.md)
+  * [Best Practices & Methodologies](research/research-topics-list/best-practices-methodologies.md)
+  * [Implementation Guide](research/research-topics-list/implementation-guide.md)
 
 ## Reference Materials
 
