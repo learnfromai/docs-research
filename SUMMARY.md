@@ -371,6 +371,16 @@
   * [Cloud & Infrastructure Topics](research/research-topics-comprehensive-list/cloud-infrastructure-topics.md)
   * [Implementation Guide](research/research-topics-comprehensive-list/implementation-guide.md)
   * [Best Practices](research/research-topics-comprehensive-list/best-practices.md)
+* [Meta Research](research/meta/README.md)
+  * [Comprehensive Research Topics List](research/meta/comprehensive-research-topics-list/README.md)
+    * [Executive Summary](research/meta/comprehensive-research-topics-list/executive-summary.md)
+    * [Career Development Topics](research/meta/comprehensive-research-topics-list/career-development-topics.md)
+    * [Technical Skills Topics](research/meta/comprehensive-research-topics-list/technical-skills-topics.md)
+    * [Business & EdTech Topics](research/meta/comprehensive-research-topics-list/business-edtech-topics.md)
+    * [Implementation Guide](research/meta/comprehensive-research-topics-list/implementation-guide.md)
+    * [Best Practices](research/meta/comprehensive-research-topics-list/best-practices.md)
+    * [Topic Prioritization Framework](research/meta/comprehensive-research-topics-list/topic-prioritization-framework.md)
+    * [Research Prompt Templates](research/meta/comprehensive-research-topics-list/research-prompt-templates.md)
 
 ## Reference Materials
 
