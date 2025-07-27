@@ -87,6 +87,13 @@ Research and development of team building activities and collaborative tools.
 - **Sample content** - Ready-to-use question sets and game formats
 - **Implementation guides** - Setup and facilitation instructions
 
+### Meta Research
+**[Meta Research](meta/README.md)**
+
+Research methodology, topic selection, and strategic planning for professional development.
+
+- **[Comprehensive Research Topics List](meta/comprehensive-research-topics-list/README.md)** - Strategic catalog of 150+ research topics covering career development, technical skills, and business opportunities for IT/ComSci professionals
+
 ## Quick Navigation
 
 ### Most Active Research Areas
@@ -101,6 +108,7 @@ Research and development of team building activities and collaborative tools.
 | [Career Development](career/README.md) | ✅ Complete | Current | Interview preparation, professional growth, research topics meta-analysis |
 | [UI Testing](ui-testing/README.md) | ✅ Complete | July 2025 | Testing framework analysis and migration |
 | [Team Activities](team-activities/README.md) | ✅ Complete | July 2025 | Team building and educational games |
+| [Meta Research](meta/README.md) | ✅ Complete | July 2025 | Research methodology and comprehensive topic planning |
 
 ### By Research Type
 
@@ -113,6 +121,7 @@ Research and development of team building activities and collaborative tools.
 - [Model Context Protocol](mcp/README.md) - AI assistant integration and protocol analysis
 - [UI Testing Frameworks](ui-testing/README.md) - Tool comparison and implementation strategies
 - [Technical Interview Questions](career/technical-interview-questions/README.md) - Technology-specific preparation materials
+- [Meta Research](meta/README.md) - Research methodology and comprehensive topic planning
 
 **Career & Professional Development**
 - [Career Development](career/README.md) - Professional growth and advancement strategies
