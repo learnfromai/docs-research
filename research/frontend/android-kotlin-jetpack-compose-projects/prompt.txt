@@ -1,0 +1,3 @@
+[Research] Perform research for open source android kotlin jetpack compose projects
+
+Goal is to have reference to study production-ready android kotlin jetpack compose projects. Look as many as you can. I want to learn how android kotlin jetpack compose is properly used. How to optimize the build, how to structure the app, what library and tools are used, etc.
