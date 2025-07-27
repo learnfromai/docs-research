@@ -7,6 +7,15 @@
 ## Research & Analysis
 
 * [Research Overview](research/README.md)
+* [Comprehensive Research Topics Guide](research/comprehensive-research-topics/README.md)
+  * [Executive Summary](research/comprehensive-research-topics/executive-summary.md)
+  * [Career Development Research Topics](research/comprehensive-research-topics/career-development-topics.md)
+  * [Technical Skills Research Topics](research/comprehensive-research-topics/technical-skills-topics.md)
+  * [Business & Entrepreneurship Topics](research/comprehensive-research-topics/business-entrepreneurship-topics.md)
+  * [Emerging Technologies Topics](research/comprehensive-research-topics/emerging-technologies-topics.md)
+  * [Industry Specialization Topics](research/comprehensive-research-topics/industry-specialization-topics.md)
+  * [Implementation Guide](research/comprehensive-research-topics/implementation-guide.md)
+  * [Best Practices](research/comprehensive-research-topics/best-practices.md)
 * [Open Source Project Creation](research/open-source-project-creation/README.md)
   * [Executive Summary](research/open-source-project-creation/executive-summary.md)
   * [Package.json Best Practices](research/open-source-project-creation/package-json-best-practices.md)

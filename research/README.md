@@ -8,6 +8,19 @@ Comprehensive research documentation covering various technical domains, career 
 
 ## Research Categories
 
+### Comprehensive Research Topics Guide
+**[Comprehensive IT/CS Research Topics Guide](comprehensive-research-topics/README.md)**
+
+Strategic research roadmap covering career development, technical skills, business opportunities, and emerging technologies for IT/Computer Science professionals with 100+ actionable research topics.
+
+- **[Career Development Topics](comprehensive-research-topics/career-development-topics.md)** - Professional growth, leadership transition, certification strategies, and career advancement
+- **[Technical Skills Topics](comprehensive-research-topics/technical-skills-topics.md)** - Frontend, backend, DevOps, cloud computing, and modern development practices
+- **[Business & Entrepreneurship Topics](comprehensive-research-topics/business-entrepreneurship-topics.md)** - EdTech business models, Philippine market analysis, and startup development
+- **[Emerging Technologies Topics](comprehensive-research-topics/emerging-technologies-topics.md)** - AI/ML, blockchain, IoT, AR/VR, and future technology trends
+- **[Industry Specialization Topics](comprehensive-research-topics/industry-specialization-topics.md)** - Healthcare, FinTech, EdTech, GovTech, and domain-specific expertise
+- **[Implementation Guide](comprehensive-research-topics/implementation-guide.md)** - Research execution methodology and documentation standards
+- **[Best Practices](comprehensive-research-topics/best-practices.md)** - Research excellence and career impact optimization
+
 ### Open Source Project Creation
 **[Open Source Project Creation](open-source-project-creation/README.md)**
 
@@ -79,6 +92,7 @@ Research and development of team building activities and collaborative tools.
 
 | Category | Status | Last Updated | Primary Focus |
 |----------|--------|--------------|---------------|
+| [Comprehensive Research Topics Guide](comprehensive-research-topics/README.md) | ✅ Complete | January 2025 | 100+ research topics across career, technical skills, business, and emerging technologies |
 | [Open Source Project Creation](open-source-project-creation/README.md) | ✅ Complete | January 2025 | Package.json setup, licensing, project tracking, and Nx monorepo best practices |
 | [Architecture Research](architecture/README.md) | ✅ Complete | July 2025 | Clean Architecture patterns and monorepo design |
 | [Backend Technologies](backend/README.md) | ✅ Complete | July 2025 | Testing frameworks and performance analysis |
@@ -91,6 +105,7 @@ Research and development of team building activities and collaborative tools.
 
 **Technical Analysis**
 
+- [Comprehensive Research Topics Guide](comprehensive-research-topics/README.md) - 100+ research topics across career, technical skills, business, and emerging technologies
 - [Open Source Project Creation](open-source-project-creation/README.md) - Package.json setup, licensing, project tracking, and Nx monorepo best practices
 - [Architecture Research](architecture/README.md) - Clean Architecture patterns and monorepo design
 - [Backend Technologies](backend/README.md) - Testing frameworks and performance optimization
