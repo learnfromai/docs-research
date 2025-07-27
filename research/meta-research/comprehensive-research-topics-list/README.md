@@ -17,13 +17,10 @@ This research document provides a comprehensive list of valuable research topics
 9. [Development Tools & Methodologies](./development-tools-methodologies.md)
 10. [Security & Privacy](./security-privacy-topics.md)
 11. [Emerging Technologies](./emerging-technologies-topics.md)
-12. [Data & Analytics](./data-analytics-topics.md)
-13. [Mobile Development](./mobile-development-topics.md)
-14. [Quality Assurance & Testing](./qa-testing-topics.md)
-15. [Product Management for Developers](./product-management-topics.md)
-16. [Executive Summary](./executive-summary.md)
-17. [Implementation Guide](./implementation-guide.md)
-18. [Best Practices](./best-practices.md)
+12. [Mobile Development](./mobile-development-topics.md)
+13. [Executive Summary](./executive-summary.md)
+14. [Implementation Guide](./implementation-guide.md)
+15. [Best Practices](./best-practices.md)
 
 ## 🎯 Research Scope & Methodology
 
@@ -90,7 +87,7 @@ This comprehensive research covers:
 
 ## ✅ Goals Achieved
 
-✅ **Comprehensive Topic Coverage**: 200+ research topics across 15 major categories relevant to IT/ComSci professionals
+✅ **Comprehensive Topic Coverage**: 200+ research topics across 12 major categories relevant to IT/ComSci professionals
 
 ✅ **Philippine EdTech Business Focus**: Dedicated section covering board exam review platform development, regulatory compliance, and market analysis
 
