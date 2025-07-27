@@ -9,6 +9,9 @@ Research and analysis of modern frontend development technologies, focusing on p
 
 ## Research Areas
 
+### ⚛️ React & Next.js Development
+- **[Open Source React & Next.js Projects](open-source-react-nextjs-projects/README.md)** - Analysis of 15+ production-ready open source projects covering state management, authentication, performance optimization, and modern development patterns
+
 ### 🚀 Performance Analysis
 - **[Performance Analysis](performance-analysis/README.md)** - Comprehensive research on frontend performance optimization, measurement tools (Lighthouse, PageSpeed Insights), and React/Vite enhancement strategies
 
@@ -25,7 +28,9 @@ Our frontend research focuses on:
 
 ## 🔗 Related Sections
 
+- [Open Source React & Next.js Projects](open-source-react-nextjs-projects/README.md) - Production patterns and best practices
 - [UI Testing Research](../ui-testing/README.md) - Frontend testing frameworks and strategies
+- [Architecture Analysis](../architecture/README.md) - Clean architecture and design patterns
 - [Career Development](../career/README.md) - Interview questions including frontend topics
 
 ---
