@@ -1,0 +1,11 @@
+Research Request: [Research] Perform research for open source projects that uses nest.js
+
+Goal is to have reference to study production-ready nest projects. Look as many as you can. I want to learn how nest is properly used, how to create secure and scalable code/architecture. How to create secure authentication if applicable. What tools or libaries they are using, etc.
+
+Research Guidelines & Requirements:
+- Focus on production-ready NestJS applications
+- Analyze security implementations and authentication patterns
+- Study scalable architecture and design patterns
+- Document popular tools and libraries used
+- Include practical implementation examples
+- Provide comprehensive citations and references

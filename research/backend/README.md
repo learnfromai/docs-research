@@ -13,6 +13,9 @@ Research documentation focused on backend development technologies, frameworks, 
 ### API Design
 - [REST API Response Structure Research](./rest-api-response-structure-research/) - Industry standards and best practices for REST API response structures
 
+### Framework Research
+- [NestJS Open Source Projects](./nestjs-open-source-projects/) - Production-ready NestJS projects analysis for security, architecture, and best practices
+
 ## 🎯 Research Focus Areas
 
 - **Authentication & Security**: JWT best practices, token management, refresh strategies
