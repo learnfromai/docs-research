@@ -230,3 +230,32 @@ A systematic catalog of 150+ research topics covering career development, techni
 ---
 
 *Meta Research category established July 2025*
+# 🔍 Meta Research
+
+## 🎯 Overview
+
+This section contains meta-research topics that provide frameworks, methodologies, and comprehensive guides for conducting effective research in the IT/Computer Science field.
+
+## 📚 Research Categories
+
+### 📋 Research Planning and Strategy
+
+* **[Comprehensive Research Topics List](./research-topics-comprehensive-list/README.md)** - A complete catalog of 80+ research topics covering career development, technical skills, business opportunities, and emerging technologies for IT/CS professionals.
+
+## 🎯 Purpose and Scope
+
+Meta-research serves several key purposes:
+
+1. **Research Planning**: Providing structured approaches to identifying valuable research topics
+2. **Methodology Guidance**: Establishing best practices for conducting thorough, actionable research
+3. **Quality Standards**: Defining documentation and citation standards for research outputs
+4. **Strategic Direction**: Aligning research activities with career and business objectives
+
+## 🔗 Navigation
+
+**Previous**: [Research Overview](../README.md)  
+**Next**: [Comprehensive Research Topics List](./research-topics-comprehensive-list/README.md)
+
+---
+
+*Meta Research | Research About Research | Strategic Research Planning*
