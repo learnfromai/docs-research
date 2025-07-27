@@ -259,3 +259,38 @@ Meta-research serves several key purposes:
 ---
 
 *Meta Research | Research About Research | Strategic Research Planning*
+# Meta Research Directory
+
+Research about research - strategic analysis and planning for effective research topic selection and execution.
+
+## 📋 Meta Research Categories
+
+### Research Strategy & Planning
+This directory contains meta-research that helps identify, prioritize, and execute research topics for maximum career and business impact.
+
+#### Current Research Projects
+
+1. **[Research Topics Identification & Strategic Roadmap](./research-topics-identification/)** - Comprehensive meta-research identifying 100+ strategic research topics across career development, technical skills, business opportunities, and emerging technologies
+
+## 🎯 Purpose and Scope
+
+Meta-research serves to:
+- **Optimize Research Investment**: Identify highest-value research topics
+- **Strategic Planning**: Align research with career and business goals
+- **Resource Allocation**: Prioritize time and effort for maximum impact
+- **Future Positioning**: Prepare for emerging trends and opportunities
+
+## 🔗 Integration with Main Research
+
+This meta-research informs and guides research decisions across all other categories:
+- [Career Development](../career/)
+- [Technical Skills](../backend/, ../frontend/, ../architecture/)
+- [Business & Entrepreneurship](../tools/)
+- [Industry Best Practices](../devops/, ../ui-testing/)
+
+---
+
+**Navigation**
+- ← Previous: [Research Overview](../README.md)
+- → Next: [Research Topics Identification](./research-topics-identification/README.md)
+- ↑ Back to: [Documentation Home](../../README.md)

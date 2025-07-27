@@ -404,6 +404,18 @@
     * [Topic Prioritization Framework](research/meta/comprehensive-research-topics-list/topic-prioritization-framework.md)
     * [Research Prompt Templates](research/meta/comprehensive-research-topics-list/research-prompt-templates.md)
 
+* [Meta Research](research/meta/README.md)
+  * [Research Topics Identification & Strategic Roadmap](research/meta/research-topics-identification/README.md)
+    * [Executive Summary](research/meta/research-topics-identification/executive-summary.md)
+    * [Career Development Topics](research/meta/research-topics-identification/career-development-topics.md)
+    * [Technical Skills Topics](research/meta/research-topics-identification/technical-skills-topics.md)
+    * [Business & Entrepreneurship Topics](research/meta/research-topics-identification/business-entrepreneurship-topics.md)
+    * [Tool & Framework Evaluation Topics](research/meta/research-topics-identification/tool-framework-evaluation-topics.md)
+    * [Industry Best Practices Topics](research/meta/research-topics-identification/industry-best-practices-topics.md)
+    * [Emerging Technologies Topics](research/meta/research-topics-identification/emerging-technologies-topics.md)
+    * [Implementation Guide](research/meta/research-topics-identification/implementation-guide.md)
+    * [Research Prioritization Matrix](research/meta/research-topics-identification/research-prioritization-matrix.md)
+
 ## Reference Materials
 
 * [Documentation Context](target/README.md)
