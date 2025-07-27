@@ -1,0 +1,11 @@
+Research Request: Open Source Android Kotlin Jetpack Compose Projects
+
+Goal is to have reference to study production-ready android kotlin jetpack compose projects. Look as many as you can. I want to learn how android kotlin jetpack compose is properly used. How to optimize the build, how to structure the app, what library and tools are used, etc.
+
+Research Guidelines & Requirements:
+- Find and analyze 8-12 high-quality open source Android Jetpack Compose projects
+- Focus on production-ready applications and libraries
+- Study architecture patterns, project structure, and build optimization
+- Document common libraries, tools, and best practices
+- Provide implementation guidance for developers learning Jetpack Compose
+- Include comprehensive citations and references to all analyzed projects
