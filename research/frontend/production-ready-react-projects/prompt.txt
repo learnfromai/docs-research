@@ -1,0 +1,3 @@
+[Research] Perform research for open source projects that uses react or next. 
+
+Goal is to have reference to study production-ready react projects. Look as many as you can. I want to learn how React is properly used, how zustand or redux is properly used, how they manage there ui/component libraries, how they optimize state, how they properly connect to backend APIs, how they implement secure authentication, etc.
