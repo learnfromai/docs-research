@@ -1,0 +1,13 @@
+Research Request: Perform research for open source devops projects that uses terraform with AWS and/or with kubernetes and/or EKS
+
+Goal is to have reference to study production-ready devops projects. Look as many as you can. I want to learn how terraform with AWS and/or with kubernetes and/or EKS is properly used.
+
+This research will analyze high-quality open source projects that demonstrate best practices for:
+- Infrastructure as Code using Terraform
+- AWS services integration (especially EKS, ECS, EC2, VPC, etc.)
+- Kubernetes and EKS for container orchestration
+- CI/CD pipeline implementations
+- Security and monitoring best practices
+- Production-ready deployment patterns
+
+The research will focus on learning from real-world implementations to understand proper usage patterns, architecture decisions, and best practices for Terraform + AWS + Kubernetes/EKS stacks.
