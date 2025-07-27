@@ -12,9 +12,12 @@ Research and analysis of modern frontend development technologies, focusing on p
 ### 🚀 Performance Analysis
 - **[Performance Analysis](performance-analysis/README.md)** - Comprehensive research on frontend performance optimization, measurement tools (Lighthouse, PageSpeed Insights), and React/Vite enhancement strategies
 
+### ⚛️ React/Next.js Best Practices
+- **[Open Source React/Next.js Projects Analysis](open-source-react-nextjs-projects/README.md)** - In-depth analysis of production-ready open source React and Next.js projects, covering state management, UI architecture, performance optimization, and security patterns
+
 ## Research Overview
 
-Our frontend technology research focuses on practical performance improvements and measurement strategies that can be immediately applied to modern web applications. The research emphasizes evidence-based optimization techniques with measurable results.
+Our frontend technology research focuses on practical performance improvements and proven architectural patterns that can be immediately applied to modern web applications. The research emphasizes evidence-based optimization techniques with measurable results and real-world implementation strategies.
 
 Our frontend research focuses on:
 
