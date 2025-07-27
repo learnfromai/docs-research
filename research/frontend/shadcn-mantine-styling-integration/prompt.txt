@@ -1,0 +1,3 @@
+[Research] Conduct a research on how to utilize shadncn/radix-ui as CSS library but will have style inspiration from mantine or antd, etc.
+
+Is it as simple as exploring the codebase for those component libraries and checking their styling? How to achieve them? I want the freedom of shadcn/tailwind for my own custom ui library since in the end, I can just copy and paste the components. However, I kind of like the existing styling of mantine components for example. I kind of don't like the styling of shadcn ui so I will still customize it to fit my liking.
