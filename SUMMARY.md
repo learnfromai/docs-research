@@ -169,6 +169,7 @@
     * [Zustand State Management Analysis](research/frontend/open-source-react-nextjs-projects/zustand-state-management-analysis.md)
     * [Implementation Guide](research/frontend/open-source-react-nextjs-projects/implementation-guide.md)
     * [Best Practices Compilation](research/frontend/open-source-react-nextjs-projects/best-practices-compilation.md)
+    * [Comparison Analysis](research/frontend/open-source-react-nextjs-projects/comparison-analysis.md)
 * [AI Tools](research/ai-tools/README.md)
   * [DeepSeek Local Hosting](research/ai-tools/deepseek-local-hosting/README.md)
     * [Executive Summary](research/ai-tools/deepseek-local-hosting/executive-summary.md)
