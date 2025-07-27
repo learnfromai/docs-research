@@ -1,0 +1,28 @@
+[Research] Research for list of research topics about career, business, technical skill, etc.
+
+As you already know, this repository contains research documents for various topics.
+
+Now, perform research on what should I research. The list should contain 1-3 statements about the prompt for asking the research. 
+
+Various topics like, career progression in tech, or tools for frontend development, backend development, devops, cloud, etc.
+
+Anything that will be helpful in IT/ComSci field, career, technical skills, etc. For business part, as an IT, like research for all things needed to start an edtech business similar to Khan Academy with a platform but the topics are board exam review for Philippine board exams. Research for best practices for all, etc. I want you to give a comprehensive list, as much as possible, where research topic would be one session for the copilot agent to research.
+
+Create a comprehensive list of research topics covering:
+- Career development and progression in technology
+- Business opportunities and entrepreneurship (especially EdTech)
+- Frontend, backend, DevOps, and cloud technologies
+- Emerging technologies and innovation
+- Data and analytics
+- Security and compliance
+- Soft skills and management
+- Philippine-specific EdTech opportunities (board exam platforms)
+
+Each topic should include 1-3 specific research prompt statements that can guide a focused research session.
+
+Expected deliverables:
+- Comprehensive categorized list of 120+ research topics
+- Each topic with actionable research prompts
+- Implementation guide for conducting research sessions
+- Best practices for research quality and documentation
+- Executive summary with market analysis and strategic recommendations

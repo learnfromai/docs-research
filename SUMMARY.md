@@ -251,6 +251,21 @@
     * [Are You Smarter than a 5th Grader Game](research/team-activities/interactive-learning-games/are-you-smarter-than-5th-grader-game.md)
     * [Are You Smarter than a 5th Grader Game (Clean)](research/team-activities/interactive-learning-games/are-you-smarter-than-5th-grader-game-clean.md)
     * [Sample Question Set](research/team-activities/interactive-learning-games/sample-question-set.md)
+* [Meta-Research](research/meta-research/README.md)
+  * [Comprehensive Research Topics List](research/meta-research/comprehensive-research-topics-list/README.md)
+    * [Executive Summary](research/meta-research/comprehensive-research-topics-list/executive-summary.md)
+    * [Career Development Topics](research/meta-research/comprehensive-research-topics-list/career-development-topics.md)
+    * [Business & Entrepreneurship Topics](research/meta-research/comprehensive-research-topics-list/business-entrepreneurship-topics.md)
+    * [Frontend Development Topics](research/meta-research/comprehensive-research-topics-list/frontend-development-topics.md)
+    * [Backend Development Topics](research/meta-research/comprehensive-research-topics-list/backend-development-topics.md)
+    * [DevOps & Cloud Topics](research/meta-research/comprehensive-research-topics-list/devops-cloud-topics.md)
+    * [Emerging Technologies Topics](research/meta-research/comprehensive-research-topics-list/emerging-technologies-topics.md)
+    * [Data & Analytics Topics](research/meta-research/comprehensive-research-topics-list/data-analytics-topics.md)
+    * [Security & Compliance Topics](research/meta-research/comprehensive-research-topics-list/security-compliance-topics.md)
+    * [Soft Skills & Management Topics](research/meta-research/comprehensive-research-topics-list/soft-skills-management-topics.md)
+    * [Philippine EdTech Topics](research/meta-research/comprehensive-research-topics-list/philippine-edtech-topics.md)
+    * [Implementation Guide](research/meta-research/comprehensive-research-topics-list/implementation-guide.md)
+    * [Best Practices](research/meta-research/comprehensive-research-topics-list/best-practices.md)
 
 ## Reference Materials
 
