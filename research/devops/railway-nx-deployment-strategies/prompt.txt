@@ -1,0 +1,13 @@
+### Research Request
+
+[Research] Research which is better for Railway.com deployment for Nx React/Express app
+
+For context, the React app is using Vite. There are two options.
+
+First, deploy React separately as static deployment in Railway (I think this is possible but I haven't tried it) and Express as a web service (not sure what is the correct terminology, but the idea is the express is runnin on node server). 
+
+Second, deploywith just one deployment, the express main server, and just serve the react through express static serving with something like this: app.use(express.static(reactClientPath)); Not sure what is the correct way, but you get the idea.
+
+For context, the project is a Clinic Management System, primarily used by the staffs of small clinic (2-3 users). Goal is of course, performance. And I'm thinking it to make the react app a PWA. This might help improve the performance, like what if internet becomes slow. At least with PWA, the static assets are loaded locally. 
+
+Create comprehensive criteria, rate each from 1-10 and compute the average score.
