@@ -11,6 +11,7 @@ Comprehensive research and documentation focused on career development, intervie
 1. [Technical Interview Questions](#technical-interview-questions)
 2. [Professional Open Source Expense Tracker](#professional-open-source-expense-tracker)
 3. [AWS Certification for Full Stack Engineers with DevOps Expertise](#aws-certification-for-full-stack-engineers-with-devops-expertise)
+4. [Agile/Scrum Master Certification Strategy](#agile-scrum-master-certification-strategy)
 
 ## Research Categories
 
@@ -141,6 +142,23 @@ Comprehensive analysis of valuable research topics for IT/CS professionals cover
 
 {% hint style="success" %}
 **Strategic Value**: Provides complete roadmap for research-driven career and skill development with 80+ actionable research topics across all domains relevant to technology professionals.
+{% endhint %}
+
+### Agile/Scrum Master Certification Strategy
+
+Strategic research for technical professionals from the Philippines pursuing Agile/Scrum Master certifications to transition into project management roles, optimized for remote work opportunities in Australia, UK, and US markets.
+
+**Coverage includes:**
+
+- **Certification Body Comparison** - PSM, CSM, SAFe, PMI-ACP detailed analysis
+- **International Market Analysis** - Remote work opportunities in target countries
+- **Technical Professional Advantages** - Leveraging programming background for Scrum Master success
+- **Implementation Strategy** - 12-month roadmap from certification to job placement
+- **Career Progression Paths** - Long-term growth opportunities and salary expectations
+- **Study Strategies** - Efficient preparation approach for busy technical professionals
+
+{% hint style="success" %}
+**Strategic Value**: Complete certification and career transition strategy with market analysis for international remote work, specifically designed for technical professionals seeking project management advancement.
 {% endhint %}
 
 ---
