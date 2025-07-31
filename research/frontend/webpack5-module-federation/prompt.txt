@@ -1,0 +1,19 @@
+Research Request: Webpack 5 Module Federation - Micro-frontend architecture and runtime sharing
+
+Topic: Frontend & Backend Specializations > Advanced Frontend Technologies > Build Tools & Performance
+
+Context: 
+- Developer from the Philippines planning remote work in AU, UK, or US-based companies
+- Planning to establish an edtech platform similar to Khan Academy for Philippine licensure exam reviews
+- Focus on scalable micro-frontend architecture with runtime sharing capabilities
+
+Research Requirements:
+- Comprehensive coverage of Webpack 5 Module Federation
+- Micro-frontend architecture patterns and best practices
+- Runtime sharing strategies for common libraries and components
+- Performance optimization techniques
+- Security considerations for micro-frontend architectures
+- Migration strategies from monolithic applications
+- Practical implementation examples and templates
+- Comparison with other micro-frontend solutions
+- EdTech platform-specific considerations
