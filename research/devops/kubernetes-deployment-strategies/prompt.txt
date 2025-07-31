@@ -1,0 +1,7 @@
+Research Request: Kubernetes Deployment Strategies - Rolling updates, blue-green, canary deployments
+
+Topic: DevOps & Infrastructure > Container Technologies > Kubernetes & Orchestration
+
+Context: Philippines-based developer planning remote work in AU/UK/US markets, establishing EdTech platform similar to Khan Academy for Philippine licensure exam reviews.
+
+Research Focus: Comprehensive analysis of Kubernetes deployment strategies including rolling updates, blue-green, and canary deployments with practical implementation guides and real-world use cases.
