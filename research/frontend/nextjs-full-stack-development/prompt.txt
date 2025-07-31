@@ -1,0 +1,18 @@
+Research Request: Next.js Full Stack Development - SSR, SSG, API routes, and deployment strategies
+
+Context: 
+- Researcher from the Philippines planning remote work in AU, UK, or US
+- Planning to establish an edtech platform similar to Khan Academy for Philippine licensure exam reviews
+- Topic: Technical Skills > Frontend Development > Modern Frontend Frameworks
+
+Focus Areas:
+1. Server-Side Rendering (SSR) implementation and best practices
+2. Static Site Generation (SSG) strategies and optimization
+3. API routes development and architecture
+4. Deployment strategies for different scales and environments
+5. Performance optimization for educational content delivery
+6. Security considerations for user data and authentication
+7. Testing strategies for full-stack Next.js applications
+8. Scalability patterns for educational platforms
+
+Target Audience: Developers building educational technology platforms with Next.js
