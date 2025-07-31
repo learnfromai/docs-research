@@ -1,0 +1,15 @@
+Research Request: Database Design & Optimization - PostgreSQL, MongoDB optimization strategies
+
+Context: Philippines-based developer planning remote work in AU/UK/US markets, building EdTech platform similar to Khan Academy for Philippine licensure exam reviews.
+
+Category: Technical Skills > Backend Development > Server-Side Architecture
+
+Requirements:
+- Comprehensive research on PostgreSQL optimization strategies
+- MongoDB optimization techniques and best practices
+- Database design principles for scalable applications
+- Performance monitoring and analysis methods
+- Security considerations for database systems
+- Migration strategies between database systems
+- Practical examples and implementation guides
+- Citations from official documentation and industry sources
