@@ -1,0 +1,19 @@
+Solution Architect Career Path - Skills, certifications, and experience requirements
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based.
+
+Topic: Career Development > Professional Growth & Advancement > Specialization & Expertise
+
+This research request was submitted as GitHub issue #235 in the learnfromai/docs-research repository for comprehensive analysis and documentation.
+
+Key focus areas requested:
+- Skills development progression from developer to solution architect
+- Strategic certification pathways with ROI analysis
+- Experience requirements and career progression timelines
+- Remote work considerations for Philippines-based professionals
+- Market analysis for Australia, United Kingdom, and United States opportunities
+- Salary expectations and compensation negotiation strategies
+- Portfolio development and professional branding strategies
+- Comparison of different architect career paths and specializations
+
+The research should provide actionable guidance for career transition and advancement in the global solution architect market.
