@@ -1,0 +1,12 @@
+[Research] Technical Skills Gap Analysis Framework - Systematic skill evaluation and improvement planning
+
+Research Request:
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic: Career Development > Professional Development Systems > Skill Assessment & Planning
+
+Research Guidelines & Requirements: Follow established patterns for comprehensive research documentation including README.md hub, executive summary, implementation guide, best practices, comparison analysis, and topic-specific documents as needed.
+
+Expected to include thorough internet research with citations, practical frameworks, assessment tools, and implementation guidance for systematic skill development planning.
