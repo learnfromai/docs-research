@@ -1,0 +1,30 @@
+[Research]  Full Stack Developer Career Path Analysis - Skills progression from junior to senior roles
+
+### Research Request
+
+This research focuses on analyzing the complete career progression path for full stack developers, from junior to senior roles. The analysis should provide comprehensive insights into:
+
+1. **Skills Progression Framework** - Technical and soft skills development by career level
+2. **Industry Standards** - Market expectations and compensation analysis  
+3. **Career Transition Strategies** - Practical guidance for advancing between levels
+4. **Technology Roadmaps** - Current and emerging technologies by specialization
+5. **Professional Development** - Leadership, mentoring, and team collaboration skills
+
+### Expected Deliverables
+
+- Comprehensive skills matrix by seniority level
+- Career transition guidance and milestones
+- Industry insights and market analysis
+- Technical competency roadmaps
+- Soft skills and leadership development framework
+- Best practices for career advancement
+- Comparison of different career path options
+
+### Research Guidelines
+
+- Include comprehensive citations and references
+- Provide practical, actionable guidance
+- Cover both technical and professional development aspects
+- Address modern full stack technologies and practices
+- Include industry salary and market data
+- Follow established documentation patterns for GitBook compatibility
