@@ -1,0 +1,22 @@
+Research Request: Full Stack Developer Career Path Analysis - Skills progression from junior to senior roles
+
+Context: Research for a Philippines-based developer planning to do remote work in AU, UK or US-based companies.
+
+Key Focus Areas:
+1. Skills progression from junior to senior full stack developer roles
+2. Market analysis for remote opportunities in Australia, UK, and United States
+3. Salary expectations and career advancement pathways
+4. Technical skill requirements at each career level
+5. Remote work considerations and cultural factors
+6. Portfolio and certification recommendations
+7. Interview preparation strategies
+8. Timeline and roadmap for career progression
+
+Target Audience: Philippines-based full stack developers seeking international remote opportunities
+
+Expected Deliverables:
+- Comprehensive career progression analysis
+- Market research for target countries
+- Skills matrix and development roadmap
+- Remote work strategy guide
+- Practical implementation steps
