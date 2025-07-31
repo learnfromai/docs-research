@@ -1,0 +1,13 @@
+[Research]  Database Management Tools - pgAdmin, MongoDB Compass, Redis CLI optimization
+
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic:Tools & Productivity Enhancement >  Development Environment > Productivity Tools
+
+### Research Guidelines & Requirements
+
+Focus on practical implementation for EdTech development workflows, targeting Filipino developers working remotely for international markets. Include comprehensive analysis of database management tools covering installation, configuration, optimization, and integration strategies.
