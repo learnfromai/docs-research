@@ -1,0 +1,45 @@
+Research Request: Developer Advocacy Career Path - Skills, responsibilities, and market opportunities
+
+Context: I am from the Philippines, but plan to do remote works in AU, UK or US-based companies.
+
+Topic: Career Development > Professional Growth & Advancement > Specialization & Expertise
+
+Research Guidelines & Requirements:
+- Comprehensive research covering all key aspects
+- Multiple perspectives and approaches
+- Pros and cons clearly outlined
+- Real-world use cases and scenarios
+- Working examples and practical implementation guides
+- Citations and references from official sources
+- GitBook compatible structure
+- Focus on remote work opportunities from Philippines to AU/UK/US markets
+
+Expected Deliverables:
+- README.md (research hub)
+- executive-summary.md (high-level findings)
+- implementation-guide.md (step-by-step career transition)
+- best-practices.md (industry recommendations)
+- comparison-analysis.md (vs other similar roles)
+- market-analysis.md (opportunities in target markets)
+- skills-development-guide.md (technical and soft skills)
+- remote-work-strategies.md (Philippines-specific considerations)
+- portfolio-building-guide.md (building DA presence)
+- company-research-guide.md (target companies)
+- interview-preparation.md (DA-specific prep)
+- content-creation-strategies.md (building authority)
+
+Research Focus Areas:
+1. Developer Advocacy role definition and responsibilities
+2. Required technical and soft skills
+3. Career transition paths from various backgrounds
+4. Market opportunities and salary ranges (AU/UK/US remote)
+5. Building a Developer Advocacy portfolio
+6. Content creation and community building strategies
+7. Conference speaking and thought leadership
+8. Remote work considerations for Philippines-based professionals
+9. Target companies and job search strategies
+10. Interview preparation and assessment criteria
+11. Success metrics and career progression paths
+12. Industry trends and future outlook
+
+Date: January 2025
