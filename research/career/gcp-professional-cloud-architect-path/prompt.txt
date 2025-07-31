@@ -1,0 +1,19 @@
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+Topic:  Career Development > Certifications & Continuous Learning > Cloud & Infrastructure Certifications
+
+### Research Guidelines & Requirements
+
+The research focuses on GCP Professional Cloud Architect certification path and Google cloud specialization strategy, specifically tailored for a Philippines-based developer seeking remote work opportunities in Australia, United Kingdom, or United States markets.
+
+Key areas to cover:
+- GCP Professional Cloud Architect certification requirements and path
+- Study resources and hands-on practice recommendations
+- Career positioning for remote work in target markets
+- Cost-benefit analysis and ROI considerations
+- Comparison with other cloud certifications
+- Interview preparation and technical positioning
+- Study plans and timeline recommendations
+- Security best practices and hands-on projects
