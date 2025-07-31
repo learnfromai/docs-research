@@ -1,0 +1,17 @@
+Research Request: Kubernetes Monitoring & Logging - Prometheus, Grafana, ELK stack integration
+
+Topic: DevOps & Infrastructure > Container Technologies > Kubernetes & Orchestration
+
+Context: 
+- From Philippines, planning remote work in AU/UK/US
+- Building EdTech platform similar to Khan Academy for Philippine licensure exam reviews
+- Need production-ready monitoring and logging solutions for Kubernetes environments
+
+Focus Areas:
+- Comprehensive monitoring setup with Prometheus and Grafana
+- Centralized logging with ELK stack (Elasticsearch, Logstash, Kibana)
+- Integration between monitoring and logging systems
+- Security considerations and best practices
+- Cost optimization strategies
+- Scalability for EdTech platforms
+- Troubleshooting and maintenance procedures
