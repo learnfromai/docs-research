@@ -1,0 +1,19 @@
+[Research] React Advanced Patterns - Hooks, context, performance optimization, concurrent features
+
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic:  Technical Skills > Frontend Development > Modern Frontend Frameworks
+
+### Research Guidelines & Requirements
+- Focus on modern React patterns and best practices
+- Include practical examples and real-world implementations  
+- Cover hooks, context API, performance optimization, and concurrent features
+- Provide migration strategies from legacy patterns
+- Include testing approaches for advanced React applications
+- Consider EdTech application requirements and scalability
+- Target developers working in international remote positions
+- Include citations and references to official documentation
