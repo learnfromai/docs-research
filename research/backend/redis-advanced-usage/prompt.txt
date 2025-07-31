@@ -1,0 +1,25 @@
+Research Request: Redis Advanced Usage - Pub/sub, streams, cluster configuration
+
+### Research Context
+- Target: Philippines-based developer planning remote work in AU/UK/US
+- Project: EdTech platform similar to Khan Academy for Philippine licensure exams
+- Topic: Frontend & Backend Specializations > Backend Architecture Patterns > Database & Data Layer
+
+### Research Guidelines
+- Comprehensive coverage of Redis advanced features
+- Practical examples and production-ready configurations
+- Focus on scalability and performance for EdTech applications
+- Security considerations for production environments
+- Cost-effective deployment strategies
+- Integration with modern backend frameworks (Express.js/Node.js)
+- Real-world use cases and troubleshooting guides
+
+### Expected Deliverables
+- README.md with complete overview and navigation
+- Executive summary with key findings and recommendations
+- Implementation guides for pub/sub, streams, and clustering
+- Performance analysis and optimization strategies
+- Security considerations and best practices
+- Deployment guides for various cloud providers
+- Troubleshooting and maintenance documentation
+- EdTech-specific use cases and patterns
