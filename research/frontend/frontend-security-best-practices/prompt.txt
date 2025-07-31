@@ -1,0 +1,21 @@
+Research Request: Frontend Security Best Practices - XSS, CSRF protection, content security policies
+
+Context: Philippine-based developer planning remote work opportunities in AU, UK, or US markets, with plans to establish an edtech platform similar to Khan Academy for Philippine licensure exam reviews.
+
+Research Topic: Technical Skills > Frontend Development > Frontend Performance & Optimization
+
+Specific Focus Areas:
+1. XSS (Cross-Site Scripting) Prevention
+2. CSRF (Cross-Site Request Forgery) Protection
+3. Content Security Policy (CSP) Implementation
+4. Secure Authentication Patterns
+5. Input Validation and Sanitization
+6. Security Testing Strategies
+
+Expected Deliverables:
+- Comprehensive documentation following GitBook format
+- TypeScript/React examples
+- Real-world implementation guides
+- Security testing strategies
+- Citations and references from official sources
+- Focus on edtech platform security requirements
