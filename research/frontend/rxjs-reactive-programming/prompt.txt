@@ -1,0 +1,16 @@
+Research Request: Reactive Programming with RxJS - Observable patterns and complex data flow management
+
+Context: I am from the Philippines, but plan to do remote works in AU, UK or US-based. I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic: Technical Skills > Programming & Development > Advanced Programming Concepts
+
+Focus Areas:
+- Observable patterns and creation
+- Operators and data transformation
+- Complex data flow management
+- Error handling in reactive streams
+- Memory management and subscription handling
+- Integration with modern frameworks
+- Performance optimization
+- Testing reactive code
+- Real-world use cases for educational platforms
