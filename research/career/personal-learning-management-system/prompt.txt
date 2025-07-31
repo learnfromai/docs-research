@@ -1,0 +1,8 @@
+Research Request: Personal Learning Management System - Structured approach to continuous education
+
+Context: 
+- Individual from the Philippines planning remote work opportunities in AU, UK, or US markets
+- Planning to establish an edtech platform similar to Khan Academy focused on Philippine licensure exam reviews
+- Topic category: Career Development > Professional Development Systems > Skill Assessment & Planning
+
+Research Guidelines & Requirements followed as per repository standards.
