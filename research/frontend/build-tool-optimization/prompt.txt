@@ -1,0 +1,28 @@
+Original Research Request:
+
+Title: Frontend Build Tool Optimization - Webpack, Vite, Rollup configuration and performance
+
+Description: Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic: Technical Skills > Frontend Development > Frontend Performance & Optimization
+
+Research Focus:
+- Webpack advanced configuration and performance optimization
+- Vite configuration and performance benefits  
+- Rollup configuration for library bundling
+- Comparison analysis between build tools
+- Performance benchmarks and real-world metrics
+- Migration strategies between tools
+- Best practices for EdTech applications
+- Integration with modern frontend frameworks
+- Bundle analysis and optimization techniques
+- Development vs production configurations
+- Tree shaking and code splitting strategies
+- Asset optimization and caching strategies
+
+Target Context:
+- Philippines-based developer seeking remote work opportunities
+- EdTech platform development (similar to Khan Academy)
+- Philippine licensure exam review system
+- Performance optimization for various device capabilities
+- Network condition considerations for Philippine internet infrastructure
