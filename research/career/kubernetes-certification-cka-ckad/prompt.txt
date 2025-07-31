@@ -1,0 +1,15 @@
+Research Request: [Research] Kubernetes Certification (CKA/CKAD) - Container orchestration expertise validation
+
+Context: For someone from the Philippines planning to do remote work in AU, UK or US-based companies.
+
+Topic Category: Career Development > Certifications & Continuous Learning > Cloud & Infrastructure Certifications
+
+Research Guidelines & Requirements:
+- Comprehensive coverage of CKA and CKAD certification paths
+- Market analysis for remote work opportunities in target regions
+- Practical implementation guidance and study strategies
+- Comparison analysis between certification options
+- Hands-on experience requirements and practice resources
+- Industry demand and salary impact analysis
+- Integration with existing full-stack development skills
+- Timeline and cost considerations for certification journey
