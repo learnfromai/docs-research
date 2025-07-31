@@ -1,0 +1,58 @@
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+Topic:  Career Development > Professional Growth & Advancement > Senior Level & Leadership
+
+Research Guidelines & Requirements:
+
+📋 Research Guidelines & Requirements
+
+🎯 Expected Deliverables
+
+Required Documents (Standard Structure):
+- README.md - Research hub with overview and navigation
+- executive-summary.md - High-level findings and recommendations
+- implementation-guide.md - Step-by-step instructions
+- best-practices.md - Recommendations and patterns
+- comparison-analysis.md - Technology/approach comparisons (if applicable)
+
+Additional Documents (Topic-Specific):
+Choose as needed based on research scope:
+- migration-strategy.md - Migration planning and execution
+- performance-analysis.md - Performance metrics and optimization
+- security-considerations.md - Security patterns and guidelines
+- testing-strategies.md - Testing approaches and frameworks
+- deployment-guide.md - Deployment and infrastructure setup
+- troubleshooting.md - Common issues and solutions
+- template-examples.md - Working examples and templates
+
+🔧 Research Quality Standards
+
+Comprehensive Coverage:
+- All key aspects of the topic addressed
+- Multiple perspectives and approaches considered
+- Pros and cons clearly outlined
+- Real-world use cases and scenarios
+
+Practical Examples:
+- Working code samples and configurations
+- Step-by-step implementation guides
+- Complete setup instructions
+- Troubleshooting common issues
+
+Citations & References:
+- Links to official documentation and APIs
+- GitHub repositories and source code analysis
+- Technical blogs and industry publications
+- Stack Overflow and community discussions
+- Performance benchmarks and case studies
+- Conference talks and presentations
+
+GitBook Integration:
+- Update SUMMARY.md to include new research section
+- Proper markdown formatting and structure
+- Clear inter-document linking and navigation
+- Pagination-style navigation between related documents
+
+Original Issue Title: [Research] Salary Negotiation for Tech Professionals - Market research, negotiation tactics, and timing
