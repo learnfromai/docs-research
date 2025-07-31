@@ -1,0 +1,32 @@
+[Research] Micro-Frontend Architecture - Module federation and distributed frontend systems
+
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic: Technical Skills > Frontend Development > Modern Frontend Frameworks
+
+### Research Guidelines & Requirements
+
+## 📋 Research Guidelines & Requirements
+
+### 🎯 Expected Deliverables
+
+**Required Documents (Standard Structure):**
+- **README.md** - Research hub with overview and navigation
+- **executive-summary.md** - High-level findings and recommendations
+- **implementation-guide.md** - Step-by-step instructions
+- **best-practices.md** - Recommendations and patterns
+- **comparison-analysis.md** - Technology/approach comparisons (if applicable)
+
+**Additional Documents (Topic-Specific):**
+Choose as needed based on research scope:
+- **migration-strategy.md** - Migration planning and execution
+- **performance-analysis.md** - Performance metrics and optimization
+- **security-considerations.md** - Security patterns and guidelines
+- **testing-strategies.md** - Testing approaches and frameworks
+- **deployment-guide.md** - Deployment and infrastructure setup
+- **troubleshooting.md** - Common issues and solutions
+- **template-examples.md** - Working examples and templates
