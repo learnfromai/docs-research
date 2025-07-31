@@ -1,0 +1,18 @@
+Research Request: Webhook Architecture & Best Practices - Real-time communication and integration patterns
+
+Context: I am from the Philippines, planning to do remote work in AU, UK or US-based companies. I also plan to establish an edtech platform similar to Khan Academy but for Philippine licensure exam reviews.
+
+Topic Category: Technical Skills > Programming & Development > API Development & Integration
+
+Focus Areas:
+- Webhook fundamentals and architecture patterns
+- Real-time communication and event-driven systems
+- Security considerations and authentication
+- Integration patterns with service providers
+- Error handling and retry mechanisms
+- Monitoring and observability
+- Testing strategies for webhook systems
+- Performance and scalability
+- Implementation examples with TypeScript/Express.js
+
+Target Outcome: Comprehensive research to support building scalable, secure webhook systems for edtech applications, demonstrating expertise for remote work opportunities.
