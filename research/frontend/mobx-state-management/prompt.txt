@@ -1,0 +1,17 @@
+Research Request: MobX State Management - Observable-based state management patterns
+
+Topic: Frontend & Backend Specializations > Advanced Frontend Technologies > State Management & Architecture
+
+Context: Research for Philippine EdTech platform (licensure exam reviews similar to Khan Academy), targeting remote work opportunities in AU/UK/US markets.
+
+Requirements:
+- Comprehensive research on MobX observable-based state management
+- Comparison with other state management solutions (Redux, Zustand, Context API)
+- Implementation guides and best practices
+- Performance analysis and optimization strategies
+- Testing strategies specific to MobX
+- Real-world examples for educational platforms
+- Migration strategies from other state management solutions
+- TypeScript integration patterns
+- React integration with modern hooks
+- Scalability considerations for large applications
