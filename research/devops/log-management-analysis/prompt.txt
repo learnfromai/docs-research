@@ -1,0 +1,9 @@
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic:Tools & Productivity Enhancement > Monitoring & Analytics > Application Monitoring
+
+Research Focus: Log Management & Analysis - ELK Stack, Splunk, Fluentd implementation
