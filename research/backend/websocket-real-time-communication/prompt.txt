@@ -1,0 +1,20 @@
+[Research] WebSocket Real-Time Communication - Bidirectional communication patterns
+
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic:  Frontend & Backend Specializations > Backend Architecture Patterns > API Design & Implementation
+
+### Research Guidelines & Requirements
+
+Focus on:
+- Bidirectional communication patterns
+- Backend architecture for real-time applications
+- API design considerations for WebSocket integration
+- Security, performance, and scalability patterns
+- Implementation examples for educational platforms
+- Testing strategies for real-time communication
+- Deployment and infrastructure considerations
