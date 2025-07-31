@@ -1,0 +1,16 @@
+Research Request: Kubernetes Deployment Strategies - Pod management, service discovery, scaling
+
+Context: Filipino developer planning remote work in AU/UK/US markets, building EdTech platform similar to Khan Academy for Philippine licensure exam reviews.
+
+Topic: Technical Skills > Backend Development > Microservices & Distributed Systems
+
+Research Focus:
+- Pod management strategies and lifecycle
+- Service discovery patterns (DNS, service mesh)
+- Scaling strategies (HPA, VPA, cluster autoscaling)
+- Deployment strategies (rolling, blue-green, canary)
+- Real-world examples for microservices/EdTech platform
+- Performance optimization and monitoring
+- Security best practices
+
+Target: Production-ready implementations for distributed systems architecture.
