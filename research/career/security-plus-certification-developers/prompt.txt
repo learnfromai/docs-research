@@ -1,0 +1,11 @@
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+Topic:  Career Development > Certifications & Continuous Learning > Development & Methodology Certifications
+
+Title: [Research] Security+ Certification for Developers - Cybersecurity fundamentals for software engineers
+
+### Research Guidelines & Requirements
+
+[Standard research guidelines and requirements as provided in the issue template]
