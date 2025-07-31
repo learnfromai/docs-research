@@ -11,6 +11,7 @@ Comprehensive research and documentation focused on career development, intervie
 1. [Technical Interview Questions](#technical-interview-questions)
 2. [Professional Open Source Expense Tracker](#professional-open-source-expense-tracker)
 3. [AWS Certification for Full Stack Engineers with DevOps Expertise](#aws-certification-for-full-stack-engineers-with-devops-expertise)
+4. [Startup vs Enterprise Career Strategy](#startup-vs-enterprise-career-strategy)
 
 ## Research Categories
 
@@ -64,6 +65,26 @@ Comprehensive research and strategic guidance for AWS certification journey tail
 **Strategic Advantage**: Provides optimized 6-10 month certification journey with 25-40% potential salary increase and expanded career opportunities in startup environments.
 {% endhint %}
 
+### Startup vs Enterprise Career Strategy
+
+Comprehensive research and strategic analysis on **startup versus enterprise career paths** specifically designed for **Philippine tech professionals** planning remote work opportunities in **Australia, UK, and US markets**. This research provides actionable insights for making informed career decisions, optimal transition timing, and strategic career advancement in senior-level and leadership roles.
+
+**Coverage includes:**
+
+- Strategic career path comparison and decision framework
+- Optimal transition timing based on career stage and personal goals
+- Philippine-specific advantages and strategies for AU/UK/US remote work
+- Comprehensive compensation analysis including salary and equity comparison
+- Leadership development opportunities in both startup and enterprise environments
+- Market-specific insights for Australia, UK, and US tech ecosystems
+- Risk assessment and mitigation strategies for career transitions
+- Implementation guidance with step-by-step career strategy execution
+- Cultural adaptation and remote work best practices
+
+{% hint style="info" %}
+**Target Audience**: Philippine tech professionals with 3+ years experience seeking remote opportunities in AU, UK, US markets for senior-level positions and leadership advancement.
+{% endhint %}
+
 ### Key Resources
 
 | Resource | Focus Area | Completion Status |
@@ -71,6 +92,7 @@ Comprehensive research and strategic guidance for AWS certification journey tail
 | [Technical Interview Questions](technical-interview-questions/README.md) | Full-Stack Development | ✅ Complete |
 | [Professional Expense Tracker](professional-expense-tracker-open-source/README.md) | Portfolio Development | ✅ Complete |
 | [AWS Certification Strategy](aws-certification-fullstack-devops/README.md) | Cloud & DevOps Expertise | ✅ Complete |
+| [Startup vs Enterprise Career Strategy](startup-vs-enterprise-career-strategy/README.md) | Career Path Planning | ✅ Complete |
 | Career Planning Resources | Strategic Development | 🔄 Planned |
 | Professional Development | Skill Enhancement | 🔄 Planned |
 
@@ -78,6 +100,7 @@ Comprehensive research and strategic guidance for AWS certification journey tail
 
 ### Most Frequently Referenced
 
+- **[Startup vs Enterprise Career Strategy](startup-vs-enterprise-career-strategy/README.md)** - Complete career path analysis for Philippine remote workers
 - **[AWS Certification Strategy](aws-certification-fullstack-devops/README.md)** - Complete AWS certification roadmap for Full Stack + DevOps
 - **[Professional Expense Tracker Project](professional-expense-tracker-open-source/README.md)** - Complete portfolio project guide
 - **[Full Technical Interview Guide](technical-interview-questions/README.md)** - Complete interview preparation
