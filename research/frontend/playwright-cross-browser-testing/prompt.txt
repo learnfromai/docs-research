@@ -1,0 +1,19 @@
+[Research] Playwright Cross-Browser Testing - Automated testing across multiple browsers
+
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic: Frontend & Backend Specializations > Advanced Frontend Technologies > Testing & Quality
+
+### Research Guidelines & Requirements
+
+Focus areas:
+- Cross-browser testing fundamentals and advanced techniques
+- Playwright-specific features for multi-browser automation
+- CI/CD integration patterns for cross-browser testing
+- Performance optimization for testing pipelines
+- Real-world implementation examples for edtech platforms
+- Remote work and international development considerations
