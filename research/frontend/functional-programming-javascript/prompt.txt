@@ -1,0 +1,18 @@
+[Research] Functional Programming in JavaScript - FP concepts, libraries, and practical applications
+
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic: Technical Skills > Programming & Development > Advanced Programming Concepts
+
+Research focus on:
+- Core functional programming concepts in JavaScript
+- Popular FP libraries and ecosystem analysis
+- Practical applications for web development and edtech platforms
+- Performance considerations and optimization strategies
+- Testing approaches for functional code
+- Migration strategies from imperative to functional style
+- Real-world implementation examples and templates
