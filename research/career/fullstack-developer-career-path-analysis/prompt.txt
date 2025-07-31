@@ -1,0 +1,17 @@
+Research Request: Full Stack Developer Career Path Analysis - Skills progression from junior to senior roles
+
+Context: I am from the Philippines, but plan to do remote works in AU, UK or US-based companies.
+
+Topic: Career Development > Professional Growth & Advancement > Entry to Mid-Level Progression
+
+Research Guidelines & Requirements:
+- Comprehensive research for the topic above (title)
+- Focus on skills progression from junior to senior roles
+- Remote work considerations for Philippines → AU/UK/US markets
+- Market expectations and requirements analysis
+- Career advancement strategies
+- Salary progression and negotiation guidance
+- Cultural/timezone considerations for remote work
+- Practical implementation guide for career development
+
+Expected deliverables include README.md, executive-summary.md, implementation-guide.md, best-practices.md, comparison-analysis.md, and other relevant documents following the established research structure patterns.
