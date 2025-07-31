@@ -1,0 +1,8 @@
+Research Request: Computer Vision in Web Applications - Image processing, recognition systems
+
+Context: 
+- From Philippines, planning remote work in AU, UK or US
+- Building EdTech platform similar to Khan Academy for Philippine licensure exam reviews
+- Topic category: Technical Skills > Emerging Technologies > AI/ML Integration
+
+Research Focus: Comprehensive analysis of computer vision technologies for web applications, including implementation strategies, performance optimization, and deployment considerations for global audiences.
