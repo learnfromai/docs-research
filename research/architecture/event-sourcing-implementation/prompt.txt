@@ -1,0 +1,8 @@
+[Research] Event Sourcing Implementation - Event-driven architecture and state reconstruction
+
+Topic: Frontend & Backend Specializations > Backend Architecture Patterns > Microservices Patterns
+
+Research Request:
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Research Guidelines & Requirements: Complete research following established documentation patterns with comprehensive coverage, practical examples, citations, and GitBook integration.
