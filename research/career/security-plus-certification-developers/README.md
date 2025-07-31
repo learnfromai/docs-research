@@ -17,17 +17,13 @@
 ### 🔐 Security Fundamentals
 5. [**Developer-Specific Security Fundamentals**](./developer-specific-security-fundamentals.md) - Core cybersecurity concepts for software engineers
 6. [**Hands-On Labs Guide**](./hands-on-labs-guide.md) - Practical security exercises and lab environments
-7. [**Security in Development Lifecycle**](./security-development-lifecycle.md) - Integrating security practices in SDLC
 
 ### 📈 Career & Market Analysis
-8. [**Career Impact Analysis**](./career-impact-analysis.md) - Salary benefits, job opportunities, and market demand
-9. [**Remote Work Considerations**](./remote-work-considerations.md) - Security+ value in AU, UK, and US remote markets
-10. [**Industry Demand Analysis**](./industry-demand-analysis.md) - Market trends and employer preferences
+7. [**Career Impact Analysis**](./career-impact-analysis.md) - Salary benefits, job opportunities, and market demand
+8. [**Remote Work Considerations**](./remote-work-considerations.md) - Security+ value in AU, UK, and US remote markets
 
 ### 📚 Study Resources & Tools
-11. [**Study Resources**](./study-resources.md) - Comprehensive list of books, courses, practice tests, and tools
-12. [**Certification Requirements**](./certification-requirements.md) - Detailed exam structure, prerequisites, and logistics
-13. [**Cost-Benefit Analysis**](./cost-benefit-analysis.md) - ROI analysis and budget planning
+9. [**Study Resources**](./study-resources.md) - Comprehensive list of books, courses, practice tests, and tools
 
 ## 🎯 Research Scope & Methodology
 
