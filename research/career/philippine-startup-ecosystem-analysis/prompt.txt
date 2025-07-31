@@ -1,0 +1,19 @@
+Research Request: Philippine Startup Ecosystem Analysis - Local startup landscape and opportunities
+
+Context: I am from the Philippines, but plan to do remote works in AU, UK or US-based. I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic: Career Development > International & Market-Specific Opportunities > Philippine Market Analysis
+
+Research Guidelines & Requirements: [Standard research structure and quality requirements apply]
+
+Expected deliverables:
+- Comprehensive analysis of Philippine startup ecosystem
+- Remote work opportunities for Filipino professionals
+- EdTech market opportunities in the Philippines
+- Specific analysis of licensure exam review market
+- Implementation guidance for starting an edtech business
+- Funding and regulatory considerations
+- Technology stack recommendations
+- Competitor analysis
+
+Target audience: Filipino professionals considering remote work and edtech entrepreneurship
