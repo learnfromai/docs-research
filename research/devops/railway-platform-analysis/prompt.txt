@@ -1,0 +1,22 @@
+[Research] Research all about Railway.com. 
+
+How does it work, how to deploy Nx project with separate apps/api and apps/web for be and fe respectively. How does the "credits" work. Is it for trial only? Or does it work when I'm subscribed to Hobby or Pro? How does the pricing work? What if I will deploy one static with React/Vite in Nx, express api in Nx, and a MySQL database? How will they share the resources? For example, Pro plan has the following:
+Pro
+$20
+minimum usage
+
+For professional developers and teams shipping production applications.
+
+Includes $20 of usage monthly
+
+Up to 32 GB RAM / 32 vCPU per service
+
+Unlimited team seats included
+
+Priority support
+
+Concurrent global regions
+
+What does it mean? How much MySQL storage can I have? Is it not fixed? Like what if my app has just been deployed and I am only using it for our clinic data (app as clinic management system). So initially, the data is few so low storage is needed. How will it consume the credit? Also, since only 2-3 users will use the system, only the staff of the small clinic, so only few traffic. How will it consume the credit? Will I still pay 20 USD monthly given that few usage if I'm subscribed to Pro? Or is the 20 credit not limited to 1 month? 
+
+Aside from my specific questions, research about Railway, anything that will be useful. All features you might know.
