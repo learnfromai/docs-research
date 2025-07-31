@@ -14,12 +14,9 @@ Comprehensive research and strategic guide for **Filipino developers leveraging 
 4. **[Regional Market Analysis](./regional-market-analysis.md)** - AU/UK/US remote work landscape, salary expectations, and cultural considerations
 5. **[Strategic Project Planning](./strategic-project-planning.md)** - How to design open source projects that demonstrate career-ready skills
 6. **[Technical Skills Showcasing](./technical-skills-showcasing.md)** - Highlighting expertise through strategic code contributions and project architecture
-7. **[Professional Networking Strategy](./professional-networking-strategy.md)** - Building meaningful connections through open source communities
-8. **[Personal Branding Framework](./personal-branding-framework.md)** - Establishing thought leadership and professional reputation
-9. **[Interview Preparation Guide](./interview-preparation-guide.md)** - Leveraging open source projects in technical interviews and hiring discussions
-10. **[Salary Negotiation Strategies](./salary-negotiation-strategies.md)** - Market-specific compensation expectations and negotiation tactics
-11. **[Long-term Career Roadmap](./long-term-career-roadmap.md)** - Multi-year advancement strategy using open source as foundation
-12. **[Template Examples](./template-examples.md)** - Practical templates, checklists, and example projects
+7. **[Comparison Analysis](./comparison-analysis.md)** - Compare different career advancement approaches with ROI analysis
+8. **[Template Examples](./template-examples.md)** - Practical templates, checklists, and example projects
+9. **[Citations and References](./citations-references.md)** - Comprehensive research sources and methodology documentation
 
 ## 🚀 Quick Reference
 

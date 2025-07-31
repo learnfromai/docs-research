@@ -511,7 +511,7 @@ Best regards,
 
 ---
 
-**Next**: [Long-term Career Roadmap](./long-term-career-roadmap.md) | **Previous**: [Strategic Project Planning](./strategic-project-planning.md)
+**Next**: [Citations and References](./citations-references.md) | **Previous**: [Comparison Analysis](./comparison-analysis.md)
 
 ---
 
