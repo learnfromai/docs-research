@@ -9,6 +9,7 @@ This section contains research and analysis on DevOps practices, tools, and meth
 ### CI/CD & Deployment
 1. [Nx Setup Guide](./nx-setup-guide/README.md) - Complete guide for setting up Nx monorepo with React Vite, Express.js, and shared libraries
 2. [GitLab CI Manual Deployment Access](./gitlab-ci-manual-deployment-access/README.md) - Understanding roles, permissions, and manual deployment workflows
+3. [Railway.com Nx Deployment](./railway-nx-deployment/README.md) - Comprehensive analysis of Railway deployment strategies for Nx React/Express applications
 
 ### Build Systems & Monorepos  
 1. [Nx Setup Guide](./nx-setup-guide/README.md) - Modern monorepo development with intelligent caching and code generation
