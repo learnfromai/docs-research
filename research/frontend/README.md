@@ -12,6 +12,9 @@ Research and analysis of modern frontend development technologies, focusing on p
 ### 🚀 Performance Analysis
 - **[Performance Analysis](performance-analysis/README.md)** - Comprehensive research on frontend performance optimization, measurement tools (Lighthouse, PageSpeed Insights), and React/Vite enhancement strategies
 
+### ⚡ Reactive Programming
+- **[RxJS Reactive Programming](rxjs-reactive-programming/README.md)** - Advanced reactive programming patterns with RxJS, observable patterns, complex data flow management, and EdTech implementation strategies
+
 ## Research Overview
 
 Our frontend technology research focuses on practical performance improvements and measurement strategies that can be immediately applied to modern web applications. The research emphasizes evidence-based optimization techniques with measurable results.

@@ -20,19 +20,13 @@ Comprehensive research on reactive programming using RxJS, focusing on observabl
 ### 📚 Specialized Topics
 
 5. **[Observable Patterns Deep Dive](observable-patterns-deep-dive.md)** - Creation patterns, hot/cold observables, subjects
-6. **[Operators Mastery Guide](operators-mastery-guide.md)** - Transformation, filtering, combination, and utility operators
-7. **[Complex Data Flow Management](complex-data-flow-management.md)** - Advanced patterns for multi-stream coordination
-8. **[Error Handling Strategies](error-handling-strategies.md)** - Resilient error handling in reactive streams
-9. **[Memory Management & Performance](memory-management-performance.md)** - Subscription lifecycle, memory leaks prevention
-10. **[Testing Strategies](testing-strategies.md)** - Unit testing, marble testing, and integration testing approaches
-11. **[Framework Integration](framework-integration.md)** - React, Angular, Vue.js integration patterns
-12. **[Real-World Use Cases](real-world-use-cases.md)** - EdTech scenarios, user interaction patterns, data synchronization
+6. **[Complex Data Flow Management](complex-data-flow-management.md)** - Advanced patterns for multi-stream coordination
+7. **[Testing Strategies](testing-strategies.md)** - Unit testing, marble testing, and integration testing approaches
+8. **[Real-World Use Cases](real-world-use-cases.md)** - EdTech scenarios, user interaction patterns, data synchronization
 
 ### 🛠️ Practical Resources
 
-13. **[Template Examples](template-examples.md)** - Complete working examples and code templates
-14. **[Migration Guide](migration-guide.md)** - Migrating from callback/promise patterns to RxJS
-15. **[Troubleshooting Guide](troubleshooting-guide.md)** - Common issues, debugging techniques, and solutions
+9. **[Template Examples](template-examples.md)** - Complete working examples and code templates
 
 ## Research Scope & Methodology
 
