@@ -1,0 +1,9 @@
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+I also plan to establish an edtech similar to khan academy but for philippine licensure exam reviews.
+
+Topic:  DevOps & Infrastructure > Cloud Platforms & Services > Multi-Cloud & Platform Strategy
+
+Research Focus: Cloud Security & Compliance - Identity management, encryption, and audit compliance
