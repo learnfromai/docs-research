@@ -19,6 +19,7 @@ Comprehensive research and strategic guidance for Kubernetes certification journ
 9. [Career Impact Analysis](./career-impact-analysis.md) - Remote work opportunities and salary impact in target markets
 10. [Template Examples](./template-examples.md) - YAML manifests, practice exercises, and exam scenarios
 11. [Troubleshooting](./troubleshooting.md) - Common certification challenges and solutions
+12. [Citations and References](./citations-references.md) - Comprehensive source documentation and bibliography
 
 ## Research Scope & Methodology
 
