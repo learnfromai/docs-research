@@ -12,6 +12,9 @@ Research and analysis of modern frontend development technologies, focusing on p
 ### 🚀 Performance Analysis
 - **[Performance Analysis](performance-analysis/README.md)** - Comprehensive research on frontend performance optimization, measurement tools (Lighthouse, PageSpeed Insights), and React/Vite enhancement strategies
 
+### 🔒 Security Best Practices
+- **[Frontend Security Best Practices](frontend-security-best-practices/README.md)** - Complete security implementation guide covering XSS prevention, CSRF protection, Content Security Policy, secure authentication patterns, and comprehensive security testing strategies
+
 ## Research Overview
 
 Our frontend technology research focuses on practical performance improvements and measurement strategies that can be immediately applied to modern web applications. The research emphasizes evidence-based optimization techniques with measurable results.
