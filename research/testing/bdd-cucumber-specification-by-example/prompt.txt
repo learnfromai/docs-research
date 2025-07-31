@@ -1,0 +1,23 @@
+Research Request: Behavior-Driven Development (BDD) with Cucumber - Specification by example methodologies
+
+Context: Philippines-based developer planning remote work in AU, UK, or US. Also planning to establish an EdTech similar to Khan Academy for Philippine licensure exam reviews.
+
+Topic Category: Technical Skills > Programming & Development > Testing & Quality Assurance
+
+Research Focus:
+- Comprehensive BDD fundamentals and philosophy
+- Cucumber framework analysis across different languages
+- Gherkin syntax and best practices
+- Specification by example methodologies
+- Team collaboration aspects (Business Analyst, Developer, QA)
+- Implementation strategies for different project types
+- Tools and ecosystem analysis
+- Real-world examples and templates
+- Best practices and common anti-patterns
+
+Expected Deliverables:
+- Complete research documentation following GitBook standards
+- Practical implementation guides
+- Working examples and templates
+- Comparison analysis of BDD tools
+- Integration strategies with CI/CD pipelines
