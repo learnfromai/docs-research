@@ -1,0 +1,31 @@
+Original Research Request:
+
+Issue Title: [Research] API Versioning Strategies - Backward compatibility and evolution management
+
+Context: Comprehensive research for a developer from the Philippines planning remote work in AU/UK/US markets and establishing an EdTech platform similar to Khan Academy for Philippine licensure exam reviews.
+
+Topic Category: Technical Skills > Programming & Development > API Development & Integration
+
+Research Guidelines: Follow comprehensive research standards with practical examples, real-world use cases, citations, and GitBook integration.
+
+Research Focus Areas:
+- API versioning methodologies and strategies
+- Backward compatibility patterns and techniques
+- API evolution management approaches
+- Implementation guidance and best practices
+- Testing strategies for versioned APIs
+- Migration planning and execution
+- EdTech-specific considerations
+
+Expected Deliverables:
+- README.md (research hub)
+- executive-summary.md
+- implementation-guide.md  
+- best-practices.md
+- comparison-analysis.md
+- migration-strategy.md
+- backward-compatibility-patterns.md
+- testing-strategies.md
+- template-examples.md
+
+Research initiated: July 31, 2025
