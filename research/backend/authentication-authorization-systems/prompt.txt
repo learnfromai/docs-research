@@ -1,0 +1,7 @@
+[Research] Authentication & Authorization Systems - JWT, OAuth2, session management
+
+Topic: Technical Skills > Backend Development > Server-Side Architecture
+
+### Research Guidelines & Requirements
+
+This research covers comprehensive authentication and authorization systems for modern web applications, with specific focus on EdTech platforms targeting international markets.
