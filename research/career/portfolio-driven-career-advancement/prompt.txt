@@ -1,0 +1,25 @@
+[Research] Portfolio-Driven Career Advancement - Using open source projects for career growth
+
+### Research Request
+
+Do a comprehensive research for the topic above (title). For context, I am from the Philippines, but plan to do remote works in AU, UK or US-based. 
+
+Topic: Career Development > Professional Growth & Advancement > Entry to Mid-Level Progression
+
+### Research Guidelines & Requirements
+
+This research focuses on leveraging open source projects as strategic vehicles for career advancement, specifically tailored for Filipino developers targeting remote opportunities in Australia, United Kingdom, and United States markets.
+
+Key areas to cover:
+- Strategic open source project planning for career growth
+- Regional market analysis (AU/UK/US remote work landscape)
+- Entry to mid-level progression pathways through open source contributions
+- Portfolio presentation strategies for international markets
+- Cultural and communication considerations for cross-border collaboration
+- Salary expectations and negotiation strategies by region
+- Technical skills showcasing through open source projects
+- Building professional network through open source communities
+- Personal branding and thought leadership development
+- Long-term career advancement roadmap using open source as foundation
+
+Target audience: Filipino developers (entry to mid-level) seeking remote career advancement in AU/UK/US markets through strategic open source contributions.
