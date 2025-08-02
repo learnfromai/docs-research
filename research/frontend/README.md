@@ -12,6 +12,9 @@ Research and analysis of modern frontend development technologies, focusing on p
 ### 🚀 Performance Analysis
 - **[Performance Analysis](performance-analysis/README.md)** - Comprehensive research on frontend performance optimization, measurement tools (Lighthouse, PageSpeed Insights), and React/Vite enhancement strategies
 
+### 📱 Mobile UI Frameworks
+- **[Jetpack Compose & SwiftUI Native Feel Analysis](jetpack-compose-swiftui-native-feel/README.md)** - Comprehensive analysis of declarative UI frameworks' ability to achieve native feel, including performance benchmarks, implementation guides, and migration strategies
+
 ## Research Overview
 
 Our frontend technology research focuses on practical performance improvements and measurement strategies that can be immediately applied to modern web applications. The research emphasizes evidence-based optimization techniques with measurable results.
@@ -19,9 +22,10 @@ Our frontend technology research focuses on practical performance improvements a
 Our frontend research focuses on:
 
 1. **Performance First** - Optimizing for real-world performance metrics
-2. **Scalability** - Solutions that work as projects grow
-3. **Developer Experience** - Tools and patterns that improve productivity
-4. **Modern Standards** - Current best practices and emerging trends
+2. **Native Feel** - Achieving platform-authentic user experiences in declarative frameworks
+3. **Scalability** - Solutions that work as projects grow
+4. **Developer Experience** - Tools and patterns that improve productivity
+5. **Modern Standards** - Current best practices and emerging trends
 
 ## 🔗 Related Sections
 
