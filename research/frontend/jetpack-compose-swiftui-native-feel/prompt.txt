@@ -1,0 +1,9 @@
+[Research] Is it okay to use Jetpack Compose in an android app? I mean, can it become "native" feel, the same way the native android components can do? Research for SwiftUI as well. Perform a comprehensive research.
+
+Research Guidelines & Requirements:
+- Comprehensive analysis of native feel capabilities
+- Performance comparison with native UI frameworks
+- Real-world implementation examples
+- Migration strategies and best practices
+- Citations and references to official sources
+- Practical implementation guidance
